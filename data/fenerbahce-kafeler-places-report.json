@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-04-10T15:46:11.518Z",
+  "dryRun": false,
+  "stats": {
+    "queries": 3,
+    "requests": 9,
+    "rawResults": 180,
+    "accepted": 50,
+    "skippedNonCafe": 57,
+    "skippedNonFenerbahce": 13,
+    "duplicates": 60
+  },
+  "fetchedCount": 50,
+  "inserted": 45,
+  "updated": 5,
+  "totalAfterMerge": 13533
+}

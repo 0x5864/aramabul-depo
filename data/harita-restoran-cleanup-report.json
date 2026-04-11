@@ -1,0 +1,829 @@
+{
+  "generatedAt": "2026-04-09T12:43:07.953Z",
+  "inputs": {
+    "venues": "/Users/metintuncgenc/Documents/aramabul/data/venues.json",
+    "backup": "/Users/metintuncgenc/Documents/aramabul/data/venues.pre-harita-cleanup.backup.json",
+    "report": "/Users/metintuncgenc/Documents/aramabul/data/harita-restoran-cleanup-report.json",
+    "deleteDb": false
+  },
+  "counts": {
+    "before": 13582,
+    "after": 13509,
+    "removedCount": 73,
+    "haritaBefore": 5977,
+    "haritaAfter": 5904,
+    "deletedFromDb": 0
+  },
+  "breakdownAfter": [
+    {
+      "source": "harita_istanbul",
+      "count": 5904
+    },
+    {
+      "source": "google_places",
+      "count": 3337
+    },
+    {
+      "source": "keyif_local_restoran",
+      "count": 1777
+    },
+    {
+      "source": "keyif_local_kafe",
+      "count": 1105
+    },
+    {
+      "source": "keyif_local_pub_bar",
+      "count": 550
+    },
+    {
+      "source": "keyif_local_kebap",
+      "count": 205
+    },
+    {
+      "source": "keyif_local_cigkofte",
+      "count": 165
+    },
+    {
+      "source": "keyif_local_doner",
+      "count": 158
+    },
+    {
+      "source": "keyif_local_pide",
+      "count": 150
+    },
+    {
+      "source": "keyif_local_michelin",
+      "count": 88
+    },
+    {
+      "source": "keyif_local_kahvalti",
+      "count": 67
+    },
+    {
+      "source": "keyif_local_lokanta",
+      "count": 3
+    }
+  ],
+  "removedSample": [
+    {
+      "name": "Kalpazankaya Restoran",
+      "district": "Adalar",
+      "address": "Kalpazankaya Yolu Sk. No:42 BURGAZADA/ADALAR",
+      "sourcePlaceId": "harita:179a09357a57bde4a0a04ccd6842fd71",
+      "keptName": "Kalpazankaya Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Kalpazankaya Yolu Sok. No:42 Burgazada, Burgazada, 34975 Adalar/İstanbul",
+      "score": 99,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.667,
+        "distanceMeters": 1268,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Yasemin Restoran",
+      "district": "Adalar",
+      "address": "Gezinti Cad. No:27 BURGAZADA/ADALAR",
+      "sourcePlaceId": "harita:25232c69320a21a41101ad15bf7fddc5",
+      "keptName": "Yasemin Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Burgazada, Gezinti Yolu Cd. 27/A, 34975 Adalar/İstanbul",
+      "score": 72,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.429,
+        "distanceMeters": 255,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Chocowhite",
+      "district": "Adalar",
+      "address": "23 Nisan Cad. No:33 NİZAM/ADALAR",
+      "sourcePlaceId": "harita:dd67fb7ec11fb337a9038fcb75673cf0",
+      "keptName": "Chocowhite",
+      "keptSource": "google_places",
+      "keptAddress": "Splendid Palace Hotel Bahçesi, Nizam, 23 Nisan Caddesi D:39, 34970 Adalar/İstanbul",
+      "score": 59,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.3,
+        "distanceMeters": 259,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Lido Restaurant",
+      "district": "Adalar",
+      "address": "Fenerbahçeli Lefter Sk. No:1 MADEN/ADALAR",
+      "sourcePlaceId": "harita:53f6b287c4d3688ae1e45b5b84e31e19",
+      "keptName": "Lıdo Restaurant",
+      "keptSource": "keyif_local_restoran",
+      "keptAddress": "Büyükada Maden Mah. Fenerbahçeli Lefter Sok. 1/A Adalar, İstanbul",
+      "score": 99,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.667,
+        "distanceMeters": 5410962,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Façyo Lokantası",
+      "district": "Adalar",
+      "address": "Gülistan Cad. No:83 MADEN/ADALAR",
+      "sourcePlaceId": "harita:f689c49b3eb0935986be870053bb441b",
+      "keptName": "Façyo Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Maden, Gülistan Cd. No:83, 34970 Adalar/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.5,
+        "distanceMeters": 127,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Metin'İn Yeri",
+      "district": "Adalar",
+      "address": "Kınalı Çarşı Cad. No:59 KINALIADA/ADALAR",
+      "sourcePlaceId": "harita:357da0e038e2cd7b5b1dbe7973f5c06a",
+      "keptName": "Metin'in Yeri",
+      "keptSource": "google_places",
+      "keptAddress": "Kınalıada, Kınalı Çarşı Cd. No:59, 34977 Adalar/İstanbul",
+      "score": 89,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.571,
+        "distanceMeters": 7117,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Tike İstmarina",
+      "district": "Kartal",
+      "address": "Ankara Cad. No:147E KORDONBOYU/KARTAL",
+      "sourcePlaceId": "harita:1146bae36235689ea68c2418f0d6c8bd",
+      "keptName": "Tike İstMarina",
+      "keptSource": "google_places",
+      "keptAddress": "İSTMarina AVM, Kordonboyu, Ankara Cd. No: 147/8, 34860 Kartal/İstanbul",
+      "score": 59,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.3,
+        "distanceMeters": 777,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Köfteci Yusuf",
+      "district": "Pendik",
+      "address": "Sahil Bulvarı No:8 /1 BATI/PENDİK",
+      "sourcePlaceId": "harita:42d7c34875ff11865f9846b195ab7cbc",
+      "keptName": "Köfteci Yusuf",
+      "keptSource": "google_places",
+      "keptAddress": "Batı Mah. Sahil Bulvarı No: 8/1 Pendik İdo, Batı, 34890 Pendik/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.5,
+        "distanceMeters": 222,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Yeşilim Kebap Lahmacun",
+      "district": "Pendik",
+      "address": "Ortanca Cad. No:43 A BATI/PENDİK",
+      "sourcePlaceId": "harita:cfdb2ced53c565361d68eee92988b3b0",
+      "keptName": "Yeşilim Kebap Lahmacun",
+      "keptSource": "google_places",
+      "keptAddress": "Batı, Ortanca Cd. 43/A, 34890 Pendik/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.5,
+        "distanceMeters": 155,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Cooking House",
+      "district": "Pendik",
+      "address": "Erol Kaya Cad. No:114 DOĞU/PENDİK",
+      "sourcePlaceId": "harita:274cc358b06a1d5b53c0770e5fa922f9",
+      "keptName": "Cooking House",
+      "keptSource": "google_places",
+      "keptAddress": "Doğu, Erol Kaya Cd No:114 D:1, 34100 Pendik/İstanbul",
+      "score": 144,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 5,
+        "jaccard": 0.625,
+        "distanceMeters": 14,
+        "safeAddressMatch": true,
+        "closeDistance": true
+      }
+    },
+    {
+      "name": "Kazan Lokantası",
+      "district": "Pendik",
+      "address": "Değerli Sk. No:19 A DOĞU/PENDİK",
+      "sourcePlaceId": "harita:57a90e4dd0f41d68006df67374a95b5d",
+      "keptName": "Kazan Lokantası",
+      "keptSource": "google_places",
+      "keptAddress": "Doğu, Değerli Sk No:19/A, 34890 Pendik/İstanbul",
+      "score": 89,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.6,
+        "distanceMeters": 192,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Öz Anadolu Sofrası",
+      "district": "Tuzla",
+      "address": "Fevzi Çakmak Cad. No:59 B YAYLA/TUZLA",
+      "sourcePlaceId": "harita:7c6edad74dfb8618e8f1ab1f2180a14c",
+      "keptName": "Öz Anadolu Sofrası",
+      "keptSource": "keyif_local_restoran",
+      "keptAddress": "Yayla Mah. Fevzi Çakmak Cad. 59 Tuzla, İstanbul",
+      "score": 118,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 5,
+        "jaccard": 0.833,
+        "distanceMeters": 1679,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Dönerci Kenan Usta",
+      "district": "Tuzla",
+      "address": "Hatboyu Cad. No:38 A EVLİYA ÇELEBİ/TUZLA",
+      "sourcePlaceId": "harita:eceac684c4c6bd54d4c9a2ae37769249",
+      "keptName": "Dönerci Kenan Usta",
+      "keptSource": "google_places",
+      "keptAddress": "Evliya Çelebi, Hatboyu Cd. No: 38/A, 34944 Tuzla/İstanbul",
+      "score": 89,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.571,
+        "distanceMeters": 2838,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Meraklı Köfteci",
+      "district": "Tuzla",
+      "address": "Cumhuriyet Cad. No:71 CAMİ/TUZLA",
+      "sourcePlaceId": "harita:7dfa751c731cd527326881403c91f298",
+      "keptName": "Meraklı Köfteci",
+      "keptSource": "google_places",
+      "keptAddress": "Cami, Cumhuriyet Cd. No:71, 34940 Tuzla/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.5,
+        "distanceMeters": 11449,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Karadeniz Pide",
+      "district": "Tuzla",
+      "address": "Hükümet Cad. No:4 A ŞİFA/TUZLA",
+      "sourcePlaceId": "harita:46461bb1c7d89e3a4762b6c09907011d",
+      "keptName": "Karadeniz Pide",
+      "keptSource": "keyif_local_pide",
+      "keptAddress": "Şifa Mah. Hükümet Cad. 4 Tuzla, İstanbul",
+      "score": 112,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.8,
+        "distanceMeters": 5418845,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Konak Mangalbaşı",
+      "district": "Tuzla",
+      "address": "Nurbaba Sk. No:4 ORTA/TUZLA",
+      "sourcePlaceId": "harita:a9d231d06daa2692bf506775cdbaae0d",
+      "keptName": "Konak Mangalbaşı",
+      "keptSource": "google_places",
+      "keptAddress": "Orhanlı, Orta, Nurbaba Sk. No:4, 34956 Tuzla/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.5,
+        "distanceMeters": 339,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Yeşil Ayder Restaurant",
+      "district": "Tuzla",
+      "address": "Fettah Başaran Cad. No:8 ORHANLI/TUZLA",
+      "sourcePlaceId": "harita:f71f6caa81ef3950b896c6a2ede75234",
+      "keptName": "Yeşil Ayder Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Orhanlı, Fettah Başaran Cd. No:8, 34956 Tuzla/İstanbul",
+      "score": 89,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.571,
+        "distanceMeters": 9990,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Athyra Lounge & Sports",
+      "district": "Büyükçekmece",
+      "address": "Ünlüsoy Cad. No:26 SİNANOBA/BÜYÜKÇEKMECE",
+      "sourcePlaceId": "harita:48821a3b8d38935f5b7c592c335b9ed4",
+      "keptName": "Athyra Lounge & Sports",
+      "keptSource": "google_places",
+      "keptAddress": "Sinanoba, Ünlüsoy Cd. No:26, 34535 Büyükçekmece/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.5,
+        "distanceMeters": 4142,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Van Kahvaltı Salonu",
+      "district": "Avcılar",
+      "address": "Dr. Sadık Ahmet Cad. No:248 B AMBARLI/AVCILAR",
+      "sourcePlaceId": "harita:d89e316c92b3096afa966e36641d15af",
+      "keptName": "Van Kahvaltı Salonu",
+      "keptSource": "keyif_local_kahvalti",
+      "keptAddress": "Ambarlı Mah. Dr. Sadık Ahmet Cad. 248 Avcılar, İstanbul",
+      "score": 124,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 6,
+        "jaccard": 0.857,
+        "distanceMeters": 270,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Mazeret Restoran",
+      "district": "Avcılar",
+      "address": "Dr. Sadık Ahmet Cad. No:99 DENİZKÖŞKLER/AVCILAR",
+      "sourcePlaceId": "harita:2b3df9fd92a098b7a4c16f4b25f62851",
+      "keptName": "Mazeret Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Denizköşkler, Dr. Sadık Ahmet Cd. No:99, 34315 Avcılar/İstanbul",
+      "score": 89,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.571,
+        "distanceMeters": 347,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Iv Papel",
+      "district": "Avcılar",
+      "address": "Cumhuriyet Cad. No:21 A AMBARLI/AVCILAR",
+      "sourcePlaceId": "harita:a9e2482766a40b3e645843c2d37882e0",
+      "keptName": "IV Papel Cafe Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Ambarlı, Cumhuriyet Cd. No:21, 34315 Avcılar/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.5,
+        "distanceMeters": 527,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Avcılar Dürümcüsü",
+      "district": "Avcılar",
+      "address": "Ahmet Taner Kışlalı Cad. No:18 B MERKEZ/AVCILAR",
+      "sourcePlaceId": "harita:ca2f072f081aa7d1e747cb9fad3df444",
+      "keptName": "Avcılar Dürümcüsü",
+      "keptSource": "keyif_local_kebap",
+      "keptAddress": "Merkez Mah. Ahmet Taner Kışlalı Cad. 18 Avcılar, İstanbul",
+      "score": 124,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 6,
+        "jaccard": 0.857,
+        "distanceMeters": 327,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Fener Lokanta",
+      "district": "Bakırköy",
+      "address": "Fener Cad. No:18A YEŞİLKÖY/BAKIRKÖY",
+      "sourcePlaceId": "harita:c40da67c863732ca349bb3cf9aaa50fd",
+      "keptName": "Fener",
+      "keptSource": "google_places",
+      "keptAddress": "Yeşilyurt mahallesi. Feneryolu caddesi. Fener çıkmazı no:18 A/Bakirköy, Yeşilköy, 34149 Bakırköy/İstanbul",
+      "score": 59,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.3,
+        "distanceMeters": 727,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Yelken Restaurant",
+      "district": "Bakırköy",
+      "address": "Sahil Yolu Cad. No:8 I YEŞİLYURT/BAKIRKÖY",
+      "sourcePlaceId": "harita:4f19a221005bb296ad80ce99a32ab844",
+      "keptName": "Yelken Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Yeşilyurt Mahallesi Sahil Yolu Caddesi, Yeşilyurt, Spor Klübü No:8, 34146 Bakırköy/İstanbul",
+      "score": 76,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.444,
+        "distanceMeters": 529,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Lokanta 5",
+      "district": "Bakırköy",
+      "address": "Nergis Yolu Sk. No:18 D ATAKÖY 2-5-6. KISIM/BAKIRKÖY",
+      "sourcePlaceId": "harita:1ac7d4085daa0af2f6589bedc7f2c473",
+      "keptName": "Lokanta 5",
+      "keptSource": "google_places",
+      "keptAddress": "Ataköy 2-5-6. Kısım, 5. Kısım Çarşısı No:31, 34158 Bakırköy/İstanbul",
+      "score": 67,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.375,
+        "distanceMeters": 1620,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Edirne Lokantası",
+      "district": "Bakırköy",
+      "address": "Yeşilköy Halkalı Cad. No:93 /3 ŞENLİKKÖY/BAKIRKÖY",
+      "sourcePlaceId": "harita:d1cccb372b83550d84cfac93e37be4bf",
+      "keptName": "Edirne",
+      "keptSource": "google_places",
+      "keptAddress": "Şenlikköy, Yeşilköy Halkalı Cd. No:93, 34153 Bakırköy/İstanbul",
+      "score": 89,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.571,
+        "distanceMeters": 1799,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Palude Restaurant",
+      "district": "Zeytinburnu",
+      "address": "Kennedy Cad. No:54 A KAZLIÇEŞME/ZEYTİNBURNU",
+      "sourcePlaceId": "harita:a9f98fbdfd739f01ceea07f73aa81353",
+      "keptName": "Palude Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Yedimavi Sitesi Safir, Kazlıçeşme, Kennedy Cad. A Blok No:54AB, 34025 Zeytinburnu/İstanbul",
+      "score": 68,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.364,
+        "distanceMeters": 953,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Zennup1844 I Fişekhane",
+      "district": "Zeytinburnu",
+      "address": "Kennedy Cad. No:52T KAZLIÇEŞME/ZEYTİNBURNU",
+      "sourcePlaceId": "harita:c5a929b9fa94bf9664e1462d08f25727",
+      "keptName": "Zennup1844 I Fişekhane",
+      "keptSource": "google_places",
+      "keptAddress": "No:52T2 Büyükyalı Doğal Pazar Yeri, Büyükyalı - Fişekhane, Kazlıçeşme, Kennedy Cad., 34020 Zeytinburnu/İstanbul",
+      "score": 63,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.308,
+        "distanceMeters": 854,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Lou Cafe Bistro - Fişekhane",
+      "district": "Zeytinburnu",
+      "address": "Kennedy Cad. No:52V KAZLIÇEŞME/ZEYTİNBURNU",
+      "sourcePlaceId": "harita:931a4b40ddc5c588d0f3a43c8fa16e9b",
+      "keptName": "Lou Cafe Bistro - Fişekhane",
+      "keptSource": "google_places",
+      "keptAddress": "Kazlıçeşme Mah. Kennedy Cad, Kazlıçeşme, Büyükyalı - Fişekhane 52V, 34020 Zeytinburnu/İstanbul",
+      "score": 91,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 5,
+        "jaccard": 0.556,
+        "distanceMeters": 764,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Garden 1897 Restaurant",
+      "district": "Fatih",
+      "address": "Şehit Mehmetpaşa Sk. No:5 KÜÇÜK AYASOFYA/FATİH",
+      "sourcePlaceId": "harita:caec7afd60720839b4853eaf524c7fbd",
+      "keptName": "Garden 1897 Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Inside of Garden House Hotel, Küçük Ayasofya, Şht. Mehmetpaşa Sok. No5, 34122 Fatih/İstanbul",
+      "score": 63,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.308,
+        "distanceMeters": 2676,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Sekizdeyiz Restaurant",
+      "district": "Kadıköy",
+      "address": "Yazmacı Tahir Sk. No:22 BOSTANCI/KADIKÖY",
+      "sourcePlaceId": "harita:585c678d0bf0d4cc97501253bc8c5f3a",
+      "keptName": "Sekizdeyiz Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Suadiye sahil çatalçeşme tabelasının köşesi, Bostancı, Yazmacı Tahir Sk. no:22, 34744 Kadıköy/İstanbul",
+      "score": 68,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.364,
+        "distanceMeters": 1392,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Strada",
+      "district": "Kadıköy",
+      "address": "Bağdat Cad. No:459 A SUADİYE/KADIKÖY",
+      "sourcePlaceId": "harita:35871f0b7c70083f4e064541b091b00f",
+      "keptName": "Strada",
+      "keptSource": "google_places",
+      "keptAddress": "Suadiye, Bağdat Cad. No:459, 34740 Kadıköy/İstanbul",
+      "score": 106,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 5,
+        "jaccard": 0.714,
+        "distanceMeters": 6237,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Mahall Cafe Restoran",
+      "district": "Kartal",
+      "address": "Atatürk Cad. No:121 B GÜMÜŞPINAR/KARTAL",
+      "sourcePlaceId": "harita:fba7bfc0db372a4cc78b265131dcf83b",
+      "keptName": "Mahall Cafe & Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Soğanlık Yeni, Atatürk Cd. No:121, 34880 Kartal/İstanbul",
+      "score": 62,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.333,
+        "distanceMeters": 801,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Dönerci Mevlüt Usta",
+      "district": "Kartal",
+      "address": "Kaptanıderya Cad. No:10 A ORTA/KARTAL",
+      "sourcePlaceId": "harita:e7e539adf6ade95d2b0dd99881f2ffc6",
+      "keptName": "Dönerci Mevlüt Usta",
+      "keptSource": "google_places",
+      "keptAddress": "10, Orta, Kaptanıderya Cd. Soğanlık, 34880 Kartal/İstanbul",
+      "score": 72,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.429,
+        "distanceMeters": 213,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Öz Şahan Pide & Lahmacun",
+      "district": "Kartal",
+      "address": "Kızılırmak Sk. No:37 C ESENTEPE/KARTAL",
+      "sourcePlaceId": "harita:8c39e6bfa37915356ad72ba993dada49",
+      "keptName": "Öz Şahan Pide Lahmacun",
+      "keptSource": "keyif_local_pide",
+      "keptAddress": "Esentepe Mah. Toros Cad. Kızılırmak Sok. 37/C Kartal, İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.5,
+        "distanceMeters": 427,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Revzen Restoran Cafe",
+      "district": "Pendik",
+      "address": "Ankara Cad. No:393 YENİŞEHİR/PENDİK",
+      "sourcePlaceId": "harita:74fd11e9ab48c9f1366b1feea756f3f5",
+      "keptName": "Revzen Cafe",
+      "keptSource": "keyif_local_kafe",
+      "keptAddress": "Kurtköy Mah. Ankara Cad. 393 Pendik, İstanbul",
+      "score": 89,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.571,
+        "distanceMeters": 5424501,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Phoenix Restoran",
+      "district": "Büyükçekmece",
+      "address": "Kirazlı Sk. No:20 PINARTEPE/BÜYÜKÇEKMECE",
+      "sourcePlaceId": "harita:04cb053598dd0ad01f6314b77af7d470",
+      "keptName": "Phoenıx",
+      "keptSource": "google_places",
+      "keptAddress": "Pınartepe, Gürpınar, Kirazlı Sk. No:20, 34500 Büyükçekmece/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.5,
+        "distanceMeters": 2391,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Keyf Mangalbaşı",
+      "district": "Avcılar",
+      "address": "Çetin Sk. No:1 A MUSTAFA KEMALPAŞA/AVCILAR",
+      "sourcePlaceId": "harita:600bc7e5caa1e70b3a933a085c54d6b6",
+      "keptName": "Keyf Mangalbaşı",
+      "keptSource": "google_places",
+      "keptAddress": "Mustafa Kemal Paşa Mimar Sinan Caddesi &, Mustafa Kemal Paşa, Çetin Sk. No:1, 34320 Avcılar/İstanbul",
+      "score": 59,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.3,
+        "distanceMeters": 290,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Eşiyoklar Ocakbaşı",
+      "district": "Avcılar",
+      "address": "Beyoğlu Cad. No:54 A MUSTAFA KEMALPAŞA/AVCILAR",
+      "sourcePlaceId": "harita:ef6644a3bbcc75d8068fc35d6c72d779",
+      "keptName": "Eşiyoklar Ocakbaşı",
+      "keptSource": "google_places",
+      "keptAddress": "Mustafa Kemal Paşa, Beyoğlu Cd. No:54, 34320 Avcılar/İstanbul",
+      "score": 62,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 3,
+        "jaccard": 0.333,
+        "distanceMeters": 257,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Yeşilırmak Et Sofrası",
+      "district": "Avcılar",
+      "address": "Uran Cad. No:22 A ÜNİVERSİTE/AVCILAR",
+      "sourcePlaceId": "harita:6da66e3d6403605768ab472cdbff089a",
+      "keptName": "Yeşilırmak Et Sofrası",
+      "keptSource": "keyif_local_restoran",
+      "keptAddress": "Üniversite Mah. Uran Cad. 22 Avcılar, İstanbul",
+      "score": 112,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": true,
+        "sharedTokenCount": 4,
+        "jaccard": 0.8,
+        "distanceMeters": 1247,
+        "safeAddressMatch": true,
+        "closeDistance": false
+      }
+    }
+  ]
+}

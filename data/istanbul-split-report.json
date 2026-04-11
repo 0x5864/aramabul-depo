@@ -1,0 +1,696 @@
+{
+  "generatedAt": "2026-04-08T17:19:50.384Z",
+  "maxBytes": 209715200,
+  "items": [
+    {
+      "file": "akaryakit-istanbul-legacy-20260308.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "akaryakit.json",
+      "skipped": false,
+      "total": 705,
+      "istanbul": 705,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/akaryakit.non-istanbul.json"
+    },
+    {
+      "file": "akaryakit.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "asm.json",
+      "skipped": false,
+      "total": 1110,
+      "istanbul": 1110,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/asm.non-istanbul.json"
+    },
+    {
+      "file": "asm.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "atm.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "dis-klinikleri.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "duraklar.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "eczane.json",
+      "skipped": false,
+      "total": 5676,
+      "istanbul": 5676,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/eczane.non-istanbul.json"
+    },
+    {
+      "file": "eczane.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "eski-turkce-sozluk.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "gezi-butik-oteller-cekim-raporu.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "gezi-butik-oteller.json",
+      "skipped": false,
+      "total": 144,
+      "istanbul": 144,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/gezi-butik-oteller.non-istanbul.json"
+    },
+    {
+      "file": "gezi-butik-oteller.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "gezi-kamp-alanlari.json",
+      "skipped": false,
+      "total": 3,
+      "istanbul": 3,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/gezi-kamp-alanlari.non-istanbul.json"
+    },
+    {
+      "file": "gezi-kamp-alanlari.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "gezi-oteller-1-yildiz.json",
+      "skipped": false,
+      "total": 65,
+      "istanbul": 65,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/gezi-oteller-1-yildiz.non-istanbul.json"
+    },
+    {
+      "file": "gezi-oteller-1-yildiz.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "gezi-oteller-2-yildiz.json",
+      "skipped": false,
+      "total": 91,
+      "istanbul": 91,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/gezi-oteller-2-yildiz.non-istanbul.json"
+    },
+    {
+      "file": "gezi-oteller-2-yildiz.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "gezi-oteller-3-yildiz.json",
+      "skipped": false,
+      "total": 41,
+      "istanbul": 41,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/gezi-oteller-3-yildiz.non-istanbul.json"
+    },
+    {
+      "file": "gezi-oteller-3-yildiz.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "gezi-oteller-4-yildiz.json",
+      "skipped": false,
+      "total": 84,
+      "istanbul": 84,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/gezi-oteller-4-yildiz.non-istanbul.json"
+    },
+    {
+      "file": "gezi-oteller-4-yildiz.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "gezi-oteller-5-yildiz.json",
+      "skipped": false,
+      "total": 85,
+      "istanbul": 85,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/gezi-oteller-5-yildiz.non-istanbul.json"
+    },
+    {
+      "file": "gezi-oteller-5-yildiz.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "gezi-oteller-diger.json",
+      "skipped": false,
+      "total": 1391,
+      "istanbul": 1391,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/gezi-oteller-diger.non-istanbul.json"
+    },
+    {
+      "file": "gezi-oteller-diger.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "gezi-oteller-temizlik-raporu.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "gezi-oteller.json",
+      "skipped": false,
+      "total": 52,
+      "istanbul": 52,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/gezi-oteller.non-istanbul.json"
+    },
+    {
+      "file": "gezi-oteller.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "health-family-centers.json",
+      "skipped": false,
+      "total": 1110,
+      "istanbul": 1110,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/health-family-centers.non-istanbul.json"
+    },
+    {
+      "file": "health-family-centers.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "health-hospitals.json",
+      "skipped": false,
+      "total": 228,
+      "istanbul": 228,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/health-hospitals.non-istanbul.json"
+    },
+    {
+      "file": "health-hospitals.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "istanbul-grid-review.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "kargo.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-cigkofte.json",
+      "skipped": false,
+      "total": 182,
+      "istanbul": 182,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-cigkofte.non-istanbul.json"
+    },
+    {
+      "file": "keyif-cigkofte.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-doner.json",
+      "skipped": false,
+      "total": 247,
+      "istanbul": 247,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-doner.non-istanbul.json"
+    },
+    {
+      "file": "keyif-doner.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-food.json",
+      "skipped": false,
+      "total": 4593,
+      "istanbul": 4593,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-food.non-istanbul.json"
+    },
+    {
+      "file": "keyif-food.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-kafe.json",
+      "skipped": false,
+      "total": 745,
+      "istanbul": 745,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-kafe.non-istanbul.json"
+    },
+    {
+      "file": "keyif-kafe.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-kahvalti.json",
+      "skipped": false,
+      "total": 113,
+      "istanbul": 113,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-kahvalti.non-istanbul.json"
+    },
+    {
+      "file": "keyif-kahvalti.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-kebap.json",
+      "skipped": false,
+      "total": 463,
+      "istanbul": 463,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-kebap.non-istanbul.json"
+    },
+    {
+      "file": "keyif-kebap.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-lokantalar.json",
+      "skipped": false,
+      "total": 187,
+      "istanbul": 187,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-lokantalar.non-istanbul.json"
+    },
+    {
+      "file": "keyif-lokantalar.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-michelin-guide.json",
+      "skipped": false,
+      "total": 88,
+      "istanbul": 88,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-michelin-guide.non-istanbul.json"
+    },
+    {
+      "file": "keyif-michelin-guide.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-pide.json",
+      "skipped": false,
+      "total": 267,
+      "istanbul": 267,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-pide.non-istanbul.json"
+    },
+    {
+      "file": "keyif-pide.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-pub-bar.json",
+      "skipped": false,
+      "total": 550,
+      "istanbul": 550,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-pub-bar.non-istanbul.json"
+    },
+    {
+      "file": "keyif-pub-bar.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif-restoran.json",
+      "skipped": false,
+      "total": 2335,
+      "istanbul": 2335,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif-restoran.non-istanbul.json"
+    },
+    {
+      "file": "keyif-restoran.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "keyif.json",
+      "skipped": false,
+      "total": 247,
+      "istanbul": 247,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/keyif.non-istanbul.json"
+    },
+    {
+      "file": "keyif.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "ktb-butik-cakisma-raporu.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "ktb-mevcut-alt-kategori-ekleme-raporu.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "ktb-oteller-yildiz-senkron-raporu.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "ktb-oteller-yildizli.json",
+      "skipped": false,
+      "total": 645,
+      "istanbul": 645,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/ktb-oteller-yildizli.non-istanbul.json"
+    },
+    {
+      "file": "ktb-oteller-yildizli.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "ktb-pansiyon-ek-kayitlari.json",
+      "skipped": false,
+      "total": 48,
+      "istanbul": 48,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/ktb-pansiyon-ek-kayitlari.non-istanbul.json"
+    },
+    {
+      "file": "ktb-pansiyon-ek-kayitlari.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "ktb-tesis-katman-raporu.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "ktb-tesis-kayitlari-gezi.json",
+      "skipped": false,
+      "total": 3891,
+      "istanbul": 3891,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/ktb-tesis-kayitlari-gezi.non-istanbul.json"
+    },
+    {
+      "file": "ktb-tesis-kayitlari-gezi.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "ktb-tesis-kayitlari-keyif.json",
+      "skipped": false,
+      "total": 6,
+      "istanbul": 6,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/ktb-tesis-kayitlari-keyif.non-istanbul.json"
+    },
+    {
+      "file": "ktb-tesis-kayitlari-keyif.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "ktb-tesis-turleri-gezi.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "ktb-tesis-turleri-keyif.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "ktb-tesis-turleri.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kuafor.json",
+      "skipped": false,
+      "total": 2063,
+      "istanbul": 2063,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kuafor.non-istanbul.json"
+    },
+    {
+      "file": "kuafor.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-camiler.json",
+      "skipped": false,
+      "total": 7,
+      "istanbul": 7,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kultur-camiler.non-istanbul.json"
+    },
+    {
+      "file": "kultur-camiler.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-devlet-tiyatrolari.json",
+      "skipped": false,
+      "total": 2,
+      "istanbul": 2,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kultur-devlet-tiyatrolari.non-istanbul.json"
+    },
+    {
+      "file": "kultur-devlet-tiyatrolari.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-magaralar.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-magaralar.non-istanbul.json",
+      "skipped": false,
+      "total": 76,
+      "istanbul": 0,
+      "nonIstanbul": 76,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kultur-magaralar.non-istanbul.non-istanbul.json"
+    },
+    {
+      "file": "kultur-muzeler.json",
+      "skipped": false,
+      "total": 203,
+      "istanbul": 203,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kultur-muzeler.non-istanbul.json"
+    },
+    {
+      "file": "kultur-muzeler.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-opera-bale.json",
+      "skipped": false,
+      "total": 2,
+      "istanbul": 2,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kultur-opera-bale.non-istanbul.json"
+    },
+    {
+      "file": "kultur-opera-bale.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-oren-yerleri.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-oren-yerleri.non-istanbul.json",
+      "skipped": false,
+      "total": 237,
+      "istanbul": 0,
+      "nonIstanbul": 237,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kultur-oren-yerleri.non-istanbul.non-istanbul.json"
+    },
+    {
+      "file": "kultur-ozel-tiyatrolar.json",
+      "skipped": false,
+      "total": 101,
+      "istanbul": 101,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kultur-ozel-tiyatrolar.non-istanbul.json"
+    },
+    {
+      "file": "kultur-ozel-tiyatrolar.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-sehir-tiyatrolari.json",
+      "skipped": false,
+      "total": 3,
+      "istanbul": 3,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kultur-sehir-tiyatrolari.non-istanbul.json"
+    },
+    {
+      "file": "kultur-sehir-tiyatrolari.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-selaleler.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "kultur-selaleler.non-istanbul.json",
+      "skipped": false,
+      "total": 36,
+      "istanbul": 0,
+      "nonIstanbul": 36,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/kultur-selaleler.non-istanbul.non-istanbul.json"
+    },
+    {
+      "file": "nobetci-eczane.json",
+      "skipped": false,
+      "total": 134,
+      "istanbul": 134,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/nobetci-eczane.non-istanbul.json"
+    },
+    {
+      "file": "nobetci-eczane.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "noter.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "osmanlica-sozluk.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "otopark.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "sanat-galeriler.json",
+      "skipped": false,
+      "total": 431,
+      "istanbul": 431,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/sanat-galeriler.non-istanbul.json"
+    },
+    {
+      "file": "sanat-galeriler.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "turob-oteller-yildiz-kategori-raporu.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "turob-oteller-yildizli.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "venues.json",
+      "skipped": false,
+      "total": 41305,
+      "istanbul": 3337,
+      "nonIstanbul": 37968,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/venues.non-istanbul.json"
+    },
+    {
+      "file": "veteriner-single-progress.json",
+      "skipped": true,
+      "reason": "not_array"
+    },
+    {
+      "file": "veteriner.json",
+      "skipped": false,
+      "total": 1175,
+      "istanbul": 1175,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/veteriner.non-istanbul.json"
+    },
+    {
+      "file": "veteriner.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    },
+    {
+      "file": "yemek.json",
+      "skipped": false,
+      "total": 2793,
+      "istanbul": 2793,
+      "nonIstanbul": 0,
+      "nonPath": "/Users/metintuncgenc/Documents/aramabul/data/yemek.non-istanbul.json"
+    },
+    {
+      "file": "yemek.non-istanbul.json",
+      "skipped": true,
+      "reason": "no_city"
+    }
+  ]
+}

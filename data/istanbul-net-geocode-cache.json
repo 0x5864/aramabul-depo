@@ -1,0 +1,1020 @@
+{
+  "entries": {
+    "cafe marı|aksaray mah abdullah çavuş sok 4 fatih istanbul|fatih": {
+      "status": "ok",
+      "lat": 41.0074224,
+      "lng": 28.9493613,
+      "displayName": "Cafe Mari, Abdullah Çavuş Sokağı, Yenikapı, Aksaray Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34096, Türkiye",
+      "query": "Cafe Marı Fatih İstanbul Turkey",
+      "updatedAt": "2026-04-09T09:08:42.871Z"
+    },
+    "mado aksaray şubesi|mesih paşa mah ordu cad 315 aksaray fatih istanbul|fatih": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:52:44.812Z"
+    },
+    "özgül cafe pide ve börek salonu|aksaray mah koca mustafapaşa cad 47 b fatih istanbul|fatih": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:52:48.159Z"
+    },
+    "sedan cafe börek salonu|aksaray mah valide cami sok 9 fatih istanbul|fatih": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:52:51.056Z"
+    },
+    "aum acıbadem unlu mamülleri pasta cafe|içerenköy mah ankara yolu carrefoursa avm k 1 dk 1 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:52:54.029Z"
+    },
+    "kahve dünyası sirkeci şubesi|hoca paşa mah ankara cad fatih istanbul|fatih": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:53:51.998Z"
+    },
+    "revzen cafe|kurtköy mah ankara cad 393 pendik istanbul|pendik": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:54:48.874Z"
+    },
+    "ekpa pastane cafe|mimar sinan mah aydın menderes cad 38 zeynep apt çekmeköy istanbul|çekmeköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:55:45.495Z"
+    },
+    "bıstro ways 34|19 mayıs mah aydın sok 2 c erenköy kadıköy istanbul|kadıköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:56:43.861Z"
+    },
+    "alaçatı muhallebicisi|gençosman mah şehit orgeneral eşref bitlis cad güngören park avm k zemin güngören istanbul|güngören": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:57:41.967Z"
+    },
+    "bıg mammas güngören park avm şubesi|gençosman mah şehit orgeneral eşref bitlis cad 8 güngören park avm k 2 güngören istanbul|güngören": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T10:59:38.620Z"
+    },
+    "chay cafe|gençosman mah orgeneral eşref bitlis cad 8 güngören park avm güngören istanbul|güngören": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:00:40.778Z"
+    },
+    "kahve durağı güngören şubesi|gençosman mah orgeneral eşref bitlis cad 8 güngören istanbul|güngören": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:01:37.950Z"
+    },
+    "ajda cafe vıaport venezıa avm şubesi|karadeniz mah eski edirne asfaltı cad viaport venezia avm gaziosmanpaşa istanbul|gaziosmanpaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:02:36.516Z"
+    },
+    "carıbou coffee vıaport venezıa avm şubesi|karadeniz mah eski edirne asfaltı 408 viaport venezia avm gaziosmanpaşa istanbul|gaziosmanpaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:04:31.969Z"
+    },
+    "mado vıaport venezıa outlet avm şubesi|karadeniz mah eski edirne asfaltı viaport venezia outlet avm k giriş gaziosmanpaşa istanbul|gaziosmanpaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:05:30.569Z"
+    },
+    "adress cıty pastanesi|yıldırım mah eski edirne asfaltı sok 105 a bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:06:27.185Z"
+    },
+    "girne kafe|yıldırım mah eski edirne asfaltı 243 b bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:07:24.923Z"
+    },
+    "güllüoğlu arnavutköy şubesi|anadolu mah eski edirne asfaltı cad 1310 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:07:55.531Z"
+    },
+    "pocıtta cafe|cebeci mah eski edirne asfaltı cad 686 sultangazi istanbul|sultangazi": {
+      "status": "ok",
+      "lat": 41.1067798,
+      "lng": 28.860552,
+      "displayName": "Pocitta, Eski Edirne Asfaltı, Cebeci Mahallesi, Sultangazi, İstanbul, Marmara Bölgesi, 34265, Türkiye",
+      "query": "Pocıtta Cafe Sultangazi İstanbul Turkey",
+      "updatedAt": "2026-04-09T11:07:57.838Z"
+    },
+    "cadde çay keyfi|şirintepe mah gümüşhane cad 53 kağıthane istanbul|kağıthane": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:08:00.478Z"
+    },
+    "anastasia garden restaurant cafe kahvaltı bar|maden malul gazi cd 24 a 34970 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:08:03.178Z"
+    },
+    "burgazada cennet bahçesi|burgazada gönüllü cd no 60 34975 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T11:08:06.099Z"
+    },
+    "burgazada teras cafe|35 burgazada gezinti yolu cd 34975 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:21:09.688Z"
+    },
+    "büyükada şekercisi candy ısland cafe patisserie|maden mahallesi turyol iskelesi kösem restourant karşısı maden özdemir sk no 8 a 34970 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:21:53.648Z"
+    },
+    "cafe dumankaya|kınalıada 34977 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:22:37.502Z"
+    },
+    "fincan cafe restaurant|burgazada yalı cd no 6 a 34975 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:23:19.481Z"
+    },
+    "fortunato cafe restaurant|nizam yirmiüç nisan cd no 19 34970 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:24:03.110Z"
+    },
+    "harrison cafe|burgazada gezinti yolu cd no 47 34975 adalar istanbul|adalar": {
+      "status": "ok",
+      "lat": 40.8845814,
+      "lng": 29.0691897,
+      "displayName": "Harrison Cafe, Gezinti Caddesi, Burgazada Mahallesi, Adalar, İstanbul, Marmara Bölgesi, 34975, Türkiye",
+      "query": "Harrison Cafe Adalar İstanbul Turkey",
+      "updatedAt": "2026-04-09T09:24:05.309Z"
+    },
+    "ındos pub|itfaiye ve zabıta binası karşısı burgazada yeni yalı sk no 10 34975 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:24:07.969Z"
+    },
+    "mali usta cafe restaurant|burgazada çarşı cd no 24 a 34975 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:24:10.302Z"
+    },
+    "nissi restaurant cafe|gülistan cd 63 a büyükada maden 34970 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:24:13.008Z"
+    },
+    "palya cafe rest nargile|maden gülistan cd no 128 34970 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:24:15.168Z"
+    },
+    "restaurant cafe|nizam gülistan cd liman çıkmazı no 7 a 34970 adalar istanbul|adalar": {
+      "status": "ok",
+      "lat": 40.8634153,
+      "lng": 29.1163215,
+      "displayName": "Nizam Cafe & Restaurant, Şehit Murat Yüksel Sokağı, Nizam Mahallesi, Adalar, İstanbul, Marmara Bölgesi, 34970, Türkiye",
+      "query": "Restaurant Cafe Adalar İstanbul Turkey",
+      "updatedAt": "2026-04-09T09:24:17.955Z"
+    },
+    "secret garden restaurant büyükada|maden çiçekliyalı sokak no 24 34970 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:24:33.879Z"
+    },
+    "sermest büyükada cafe restoran kahvaltı|maden güzeller sk no 8 34970 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:25:17.695Z"
+    },
+    "yücetepe restoran kafe|nizam sanatoryum yolu sk no 5 34970 adalar istanbul|adalar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:26:00.402Z"
+    },
+    "any cafe bar ve restaurant|arnavutköy mah bebek arnavutköy cad 71 beşiktaş istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:26:43.480Z"
+    },
+    "balaban garden|balaban boyalık caddesi no 36 34277 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:27:27.743Z"
+    },
+    "big butcher cafe restaurant|karaburun 34277 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:28:12.329Z"
+    },
+    "botanikcaferestaurant|m fevzi çakmak mahallesi fatih caddesi mareşal fevzi çakmak mahallesi no395 1 34283 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:28:55.971Z"
+    },
+    "cafe de brasso restaurant|yavuz selim kıbrıs cd no 173 34275 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:29:40.494Z"
+    },
+    "cafe dengi|mustafa kemal paşa fatih cd no 117 34275 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:30:23.877Z"
+    },
+    "çınar börek cafe|no 316 karaburun terkos karaburun cd 34557 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:31:07.074Z"
+    },
+    "dürümcü bülent usta|arnavutköy merkez fatih cd 42 a 34295 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:31:50.297Z"
+    },
+    "elit market cafe aile cay bahçesi|yeniköy sahil cd no 110 34277 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:32:34.656Z"
+    },
+    "enva|tayakadın terminal caddesi no 1 34283 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:33:18.492Z"
+    },
+    "gülmahal restaurant kafe kendin pişir mangal ve serpme kahvaltı|eski edirne asfaltı hacımaşlı arnavutköy habibler yolu 1230 b 34285 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:33:59.982Z"
+    },
+    "hanimeli|mehmet akif ersoy egemen cd no 118 34283 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:34:42.716Z"
+    },
+    "kılıç motel|karaburun barış sokak no 18 34277 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T09:35:25.206Z"
+    },
+    "kıyı cafe restaurant|karaburun mahallesi sahil caddesi karaburun hür sk no 2 34277 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:29.856Z"
+    },
+    "meşgul cafe|merkez mah ayşıl sk no 40 a 34275 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:31.134Z"
+    },
+    "mûtenâ cafe karaburun|karaburun çarşı içi sokak no 10 b 34277 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:32.655Z"
+    },
+    "osmanlı tatlı cafe shisha|mareşal fevzi çakmak fatih cd no 331 34283 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:34.813Z"
+    },
+    "saklı deniz karaburun cafe restoran|karaburun plaj cd no 38 34277 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:36.323Z"
+    },
+    "sefer cafe bistro|arnavutköy merkez fecir sk no 1 a 34275 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:37.752Z"
+    },
+    "seyidoğlu hadımköy şubesi|hadımköy 75 yıl cd no 5 34555 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:39.216Z"
+    },
+    "shell|yolu üz ada paf 5 par 788 23 orhan gazi 34555 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:40.753Z"
+    },
+    "the house cafe ıstanbul airport|ıstanbul arpt tayakadın terminal caddesi no 1 e3 kapısı 34283 arnavutköy istanbul|arnavutköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:42.092Z"
+    },
+    "çilek kafeterya|fetih mah bağımsızlık blv 4 a ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:43.517Z"
+    },
+    "dasdas|atatürk ataşehir blv 34758 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:45.359Z"
+    },
+    "değirmen cafe bostancı şubesi|içerenköy mah ali nihat tarlan cad 97 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:46.829Z"
+    },
+    "erfelek kiraathanesi|örnek demokrasi cd 34704 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:48.259Z"
+    },
+    "grande patisserie cafe hg ev yemekleri|ataşehir atatürk atatürk ataşehir blv atatürk sedef cd ata 2 no 4 d 1 blok iç kapı no 47 34758 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:50.070Z"
+    },
+    "gümüşhane hatay cafe restoran|fetih bağımsızlık bulvarı 34704 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:51.455Z"
+    },
+    "itimat ataşehir|küçükbakkalköy atilla ilhan cd 44 1 34750 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:52.900Z"
+    },
+    "mola ataşehir şenayın mutfağı|küçükbakkalköy bakırcı sk no 10 2 34758 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:55.395Z"
+    },
+    "punto cafe|barbaros mah sütçü yolu cad 81 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:56.702Z"
+    },
+    "ronza ataşehir|gülnihal sk 10a atatürk 40 9886218 no 29 d 1216780 34758 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:27:58.569Z"
+    },
+    "the moss ataşehir|küçükbakkalköy cengiz topel cd no 25 d 27c 34750 ataşehir istanbul|ataşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:01.169Z"
+    },
+    "ata köşk cafe|ambarlı kemal sunal cd no 1 no 1 34315 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:02.665Z"
+    },
+    "bahçeli cafe restaurant|denizköşkler mah dr sadık ahmet cad 41 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:04.098Z"
+    },
+    "flora cafe restaurant|cihangir d 100 güney yan yolu no 197 34310 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:05.636Z"
+    },
+    "friends restaurant cafe|merkez talimhane sokağı no 20 34310 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:07.083Z"
+    },
+    "ıv papel cafe restaurant|ambarlı cumhuriyet cd no 21 34315 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:09.512Z"
+    },
+    "la woqqa|ambarlı mah cumhuriyet cad 12 a avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:10.854Z"
+    },
+    "lagün mangalbaşı cafe|gümüşpala iskeçe cd no 58 34320 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:12.355Z"
+    },
+    "laverna cafe restaurant|cihangir valide sk no 6 34310 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:13.730Z"
+    },
+    "life station cafe|merkez merkez cami sk no 1 34310 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:15.314Z"
+    },
+    "manzara restaurant|mustafa kemal paşa nergis sokağı no 43 d c 34315 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:16.743Z"
+    },
+    "pera cafe|denizköşkler mah reşitpaşa cad 3 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:18.245Z"
+    },
+    "saklıbahçe cafe bistro|ambarlı öğretmenler cd no 49 a 34315 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:19.726Z"
+    },
+    "sanat evim cafe|üniversite selvi sk no 23 34320 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:21.242Z"
+    },
+    "sedir ağacı cafe|gümüşpala mah atlı sok 1 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:22.665Z"
+    },
+    "shell|üniversite d100 34320 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:26.083Z"
+    },
+    "surena cafe|mustafa kemalpaşa mah e5 kuzey mustafa kemal paşa yan yol no 128 kat 4 34320 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:27.643Z"
+    },
+    "westmix|üniversite mah e 5 yanyol pelican mall avm no 42 51 üniversite 34320 avcılar istanbul|avcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:29.093Z"
+    },
+    "212 nostalji istanbul cafe restaurant|mahmutbey mahallesi taşocağı yolu caddesi 212 avm a blok mahmutbey halkalı cd no 5 34218 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:31.489Z"
+    },
+    "aksu fırın|güneşli üsküp cd no 36 34212 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:33.040Z"
+    },
+    "altunlar fırın pasta patissier|no11 yenimahalle dökümcüler cd 34210 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:35.045Z"
+    },
+    "arden cafe restoran güneşli|bağlar mimar sinan cd no 9 34209 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:36.423Z"
+    },
+    "bağ kafe gençlik parkı|yavuz selim 1021 sok no 4 5 34200 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:37.993Z"
+    },
+    "bahçeli konak cafe restaurant|mahmutbey istoc 13 ada no 124 34219 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:39.490Z"
+    },
+    "big city bağcılar|merkez 674 sk no 9 34200 34200 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:41.131Z"
+    },
+    "big city güneşli|güneşli cumhuriyet cd no 31 34212 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:42.519Z"
+    },
+    "blog cafe restaurant 212 outlet|mahmutbey 212 outlet 34218 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:44.165Z"
+    },
+    "chef lebanon resturant cafe|göztepe 1 cd g3 blok d no 184 9 34200 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:45.592Z"
+    },
+    "çamlı bahçe cafe fast food|bağlar mah yalçın koreş cad 24 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:47.209Z"
+    },
+    "giresun konağı restoran ve kafe|yenimahalle mevlana cd no 91 34210 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:48.643Z"
+    },
+    "hicret parkı|mahmutbey 2631 sokak no 9 34218 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:50.061Z"
+    },
+    "la copa|hürriyet cumhuriyet cd no 33 34209 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:51.612Z"
+    },
+    "lezzet vagonu|mahmutbey hicret sk hicret parkı içi sosyal tesis 34000 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:52.934Z"
+    },
+    "local coffee|hürriyet malazgirt cd no 15 34209 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:54.378Z"
+    },
+    "mirandus cafe restaurant|nurolpark o asis cadde 15 temmuz gülbahar cd no 45 5 34126 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:55.811Z"
+    },
+    "myroc cafe restorant|sancaktepe çarşı cd no 21 a 34200 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:57.026Z"
+    },
+    "payidar cafe ve restaurant bağcılar|göztepe maslak cd 15 a 34214 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:28:58.578Z"
+    },
+    "simya cafe restaurant|merkez dr sadık ahmet cd no 70 d 1 34200 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:00.111Z"
+    },
+    "sivas evi muhsin yazicioǧlu konaǧi|100 yıl kışla cd no 156 34204 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:01.545Z"
+    },
+    "tarihi kastamonu börek pasta cafe|merkez 674 sk no 36 34200 bağcılar istanbul|bağcılar": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:03.183Z"
+    },
+    "12 cadde cafe ve restaurant|bahçelievler mah talatpaşa cad 39 dk 1 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:04.721Z"
+    },
+    "anatolia cafe restaurant|yenibosna merkez mah değirmenbahçe cad ladin sok istwest sitesi no 17a2ag yenibosna merkez 34000 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:06.023Z"
+    },
+    "bıg garden cafe restaurant|bahçelievler mah açık sok 45 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:07.418Z"
+    },
+    "big garden cafe bistro|bahçelievler bağcılar cd no 45 1 34180 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:08.828Z"
+    },
+    "big house|siyavuşpaşa adnan kahveci blv no 95 34180 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:10.942Z"
+    },
+    "bozkır restaurant cafe|yenibosna merkez kavak sk no 4 34197 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:12.454Z"
+    },
+    "bubblewaffle shop|şirinevler fetih cd no 6 a 34188 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:14.656Z"
+    },
+    "cafe madre|bahçelievler mah adnan kahveci blv 127 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:16.074Z"
+    },
+    "gazelle cafe|bahçelievler merkez bağcılar caddesi vitacılar d sitesi bahçelievler no 61 34180 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:17.327Z"
+    },
+    "hayal bahçesi|fevzi çakmak köyceğiz sk 128 b 34197 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:18.776Z"
+    },
+    "istanbul hanzade restoran cafe nargile oyun salonu|bahçelievler saklıvadi sok no 1 34180 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:21.199Z"
+    },
+    "kahve dünyası starcıty avm şubesi|yenibosna merkez mah kavak sok 2 starcity avm bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:22.680Z"
+    },
+    "keyfinbilir cafe|şirinevler mah nil sok 11 a bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:23.927Z"
+    },
+    "kime ne cafe|şirinevler meriç sk no 27 34188 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:25.323Z"
+    },
+    "kütük ev cafe restaurant|bahçelievler şht yaşar erol akansel sk no 8 34180 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:28.757Z"
+    },
+    "merter kahvesi|bahçelievler mah eski londra asfaltı cad 1 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:30.124Z"
+    },
+    "n10 kafe|bahçelievler adnan kahveci blv no 73 34180 bahçelievler istanbul|bahçelievler": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:31.652Z"
+    },
+    "ada cafe|osmaniye mah şirin sok 28 a bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:33.085Z"
+    },
+    "balkon cafe restaurant yeşilyurt|yeşilyurt sipahioğlu cd no 19 2 34149 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:34.826Z"
+    },
+    "bambi cafe bakırköy|cevizlik fahri korutürk cd no 14 d 1a 34158 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:36.238Z"
+    },
+    "bıg boss lounge|sakızağacı mah kennedy cad 55 dk 1 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:37.688Z"
+    },
+    "bıg yellow taxı benzin cafe ataköy şubesi|ataköy 1 kısım mah rauf orbay cad ataköy marina park bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:39.328Z"
+    },
+    "cafe de diba|sakızağacı mah kennedy cad 31 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:40.787Z"
+    },
+    "cafe dıos restaurant|yeşilköy mah hamdullah suphi tanrıöver sok bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:42.133Z"
+    },
+    "camellıa garden cafe ve restaurant|cevizlik mah ebuzziya cad 67 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:43.400Z"
+    },
+    "casa de bohemia|şenlikköy cumhuriyet cd no 8 1 34153 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:45.381Z"
+    },
+    "chocolate bıstro bar|yeşilköy mah istasyon cad 46 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:47.365Z"
+    },
+    "çırpıcı cafe|osmaniye mah çırpıcı koşuyolu sok 7 çırpıcı parkı dk 3 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:49.468Z"
+    },
+    "flygarden cafe restaurant hookah|yeşilköy yeşilköy mahallesi atatürk caddesi istanbul dünya ticaret mrk no 10 79 34149 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:50.857Z"
+    },
+    "haci bozan ogullari|yeşilköy istasyon cd no 8 34149 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:52.265Z"
+    },
+    "hubble bubble cafe|yeşilköy mah alişan yedibaşlar sok 3 dk 2 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:53.929Z"
+    },
+    "incirli bahçe cafe ev yemekleri|osmaniye şirin sk no 8 34146 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:55.408Z"
+    },
+    "kahve diyarı incirli şubesi|kartaltepe mah incirli cad bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:56.794Z"
+    },
+    "küba cafe|yeşilköy mah istasyon cad 24 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:29:58.685Z"
+    },
+    "lacasa yeşilköy|yeşilköy yeşilyalı sk no 6 b 34149 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:00.221Z"
+    },
+    "mantar ataköy|ataköy 2 5 6 mahallesi ataköy 5 kısım güney çarşısı no 47 34158 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:01.757Z"
+    },
+    "manzara restaurant|yeşilyurt sahil yolu cd no 10 34149 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:03.200Z"
+    },
+    "meydan 12|kartaltepe mah general şükrü kanatlı sok 6 dk 3 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:04.691Z"
+    },
+    "mizu|şenlikköy yeşilköy halkalı cd no 93 34153 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:07.117Z"
+    },
+    "sansıro cafe|zeytinlik mah ömer naci sok 6 dk 1 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:08.599Z"
+    },
+    "seasıde bıstro|sakızağacı mah kennedy cad 39 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:09.963Z"
+    },
+    "sütlü kahve|zeytinlik mah ömer naci sok 27 d bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:11.380Z"
+    },
+    "yeşilköy asır cafe restaurant|yeşilköy leylak çiçeği sk no1 a 34149 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:12.797Z"
+    },
+    "zoom cafe|zuhuratbaba mah incirli cad 79 dk 1 bakırköy istanbul|bakırköy": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:14.245Z"
+    },
+    "afife cafe restaurant başakşehir|başak mahallesi yeşilvadi caddesi ahşap çarşı no 2 2g başak 34480 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:15.796Z"
+    },
+    "başak cafe restaurant|sularvadisi 34944 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:17.138Z"
+    },
+    "cafe sultanahmetli|başakşehir ortaçgil sk no 2 34480 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:18.451Z"
+    },
+    "dilek pastane cafe restaurant 5 etap şubesi|başak mah ertuğrul gazi cad 6 a 2 blok başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:20.161Z"
+    },
+    "gagaline cafe restaurant başakşehir|başak ertuğrul gazi cd no 29 34480 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:21.637Z"
+    },
+    "gagaline cafe restaurant kayaşehir başakşehir|başakşehir ishakpaşa sokağı no 8 d e 34480 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:23.099Z"
+    },
+    "karafırın|bahçeşehir 2 kısım süzer blv 47 9 34488 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:25.112Z"
+    },
+    "keyf i ârâm restoran kafe nargile başakşehir|ziyagökalp mahallesi hürriyet bulvari 121 1c 34490 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:26.594Z"
+    },
+    "le versailles cafe restaurant|ziya gökalp mahallesi başakşehir إسطنبول ziya gökalp 34000 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:28.110Z"
+    },
+    "marakesh cafe bar|başakşehir mah başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:29.500Z"
+    },
+    "mıdpoınt mall of istanbul avm şubesi|ziyagökalp mah süleyman demirel cad 7 mall of istabul avm k 1 dk 278 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:32.132Z"
+    },
+    "motta cafe restaurant|bahçeşehir 1 kısım mah prestige mall avm k zemin başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:33.520Z"
+    },
+    "perla cafe restaurant|başak mah ertuğrul gazi cad mavera sarayları no 29 k başak d 5 etap 34000 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:36.145Z"
+    },
+    "roys lounge başakşehir|başakşehir erdem beyazıt cd no 20 34480 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:37.575Z"
+    },
+    "rumeli kasrı|başak yeşilvadi cd no 4 3 34480 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:39.030Z"
+    },
+    "shell|başakşehir hürriyet bulvari 34494 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:40.669Z"
+    },
+    "şişa cafe restaurant|başakşehir mah toros cad ortaçgil sok 2 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:42.096Z"
+    },
+    "tiger cafe başakşehir|başakşehir taşoluk sokak no 11 b1 blok 34516 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:43.536Z"
+    },
+    "vatra cafe restaurant|başakşehir mah sabahattin zaim cad a26 a27 başakşehir 34200 başakşehir istanbul|başakşehir": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:45.027Z"
+    },
+    "balcoon|yıldırım şehir parkı caddesı park ada no 1 34045 bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:46.309Z"
+    },
+    "balcoon cafe|yıldırım mah şehir parkı cad ada park bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:47.559Z"
+    },
+    "cafe de mola|yıldırım mah hudutyolu cad şehirparkı sokak yıldırım no 2 34045 bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:48.797Z"
+    },
+    "cafe de mola|yıldırım mah şehir parkı cad 3 bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:50.396Z"
+    },
+    "cookshop forum istanbul avm|kocatepe paşa cd no 111 gf 78 34045 bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:51.933Z"
+    },
+    "grand teras cafe|ismet paşa ismet paşa cd ismet paşa uluhan sk 2 f 34040 bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:53.346Z"
+    },
+    "jasmin cafe|muratpaşa mah tuna cad 36 a bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:54.877Z"
+    },
+    "kuzey cafe|kartaltepe mah bilgehan cad 49 a bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:56.340Z"
+    },
+    "restoran ve kafe|2 kocatepe paşa cd ıkea 34045 bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:57.927Z"
+    },
+    "tepe cafe restaurant|kocatepe şehir parkı caddesı no12 34045 bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:30:59.411Z"
+    },
+    "terrace 12 cafe|yenidoğan mah rami kışla cad 75 bayrampaşa istanbul|bayrampaşa": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:00.927Z"
+    },
+    "all sports cafe|etiler mah bıyıklı mehmet paşa sok 1 aslanlı apt d 2 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:02.432Z"
+    },
+    "arnavutköy any|arnavutköy bebek arnavutköy cd no 71 34345 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:03.970Z"
+    },
+    "beer plus cafe pub|sinanpaşa mah şehit asım cad 27 b beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:05.467Z"
+    },
+    "beltaş rest cafe|ortaköy mecidiye köprüsü sk no 17 34347 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:06.894Z"
+    },
+    "bıstro 34|nisbetiye mah adnan saygun cad belediye sit menekşe 1 blok beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:08.336Z"
+    },
+    "blum coffee house|vişnezade süleyman seba cd 64 a 34357 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:09.805Z"
+    },
+    "caffe nero beşiktaş şubesi|cihannuma mah barbaros blv 13 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:11.247Z"
+    },
+    "ceneviz kahvesi|mecidiye mah osmanzade sok beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:13.166Z"
+    },
+    "feriye|yıldız çırağan cd no 44 34347 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:14.627Z"
+    },
+    "hide arnavutkoy|arnavutköy arnavutköy dere sok no 8 34345 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:16.134Z"
+    },
+    "hubb 77 restaurant|kuruçeşme muallim naci cd no 77 34345 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:17.627Z"
+    },
+    "huqqa kuruçeşme best shisha breakfast in istanbul|kuruçeşme muallim naci cd no 56 34345 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:19.165Z"
+    },
+    "ikram cafe|dikilitaş mah emirhan cad 4 5 6 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:20.598Z"
+    },
+    "jain arnavutköy|arnavutköy bebek arnavutköy cd no 87 34345 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:22.027Z"
+    },
+    "kuruçeşme kahvesi|kuruçeşme mah muallim naci cad 105 b beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:23.481Z"
+    },
+    "lacasa yasu rebetıko restaurant|etiler mah muharip sok 1 uçak savar sit beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:24.905Z"
+    },
+    "merci baku cafe restaurant|türkali altıntaş sk 2 a d 2 a 34353 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:26.443Z"
+    },
+    "minval akatlar|akat mah zeytinoğlu cad yaren sok 6 12 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:29.260Z"
+    },
+    "on numara maçka restoran cafe|vişnezade 34327 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:30.711Z"
+    },
+    "petra coffee roastıng co|gayrettepe mah hoşsohbet sok panorama selenium residence dk 1 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:32.084Z"
+    },
+    "remzi kitabevi cafe kanyon avm şubesi|levent mah büyükdere cad 185 kanyon avm k b2 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:33.713Z"
+    },
+    "sahil rest cafe|yıldız yalı sk 62 65 34349 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:35.352Z"
+    },
+    "shell|uğur mumcu caddesi levent köyü no 1 34330 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:36.786Z"
+    },
+    "siyah cafe kahvaltı|sinanpaşa mahallesi çelebioğlu sk mete apt sinanpaşa no 31 2 34353 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:38.238Z"
+    },
+    "tıkıntı|barbaros bulvarı caddesi cihannüma mazharpaşa sokağı no 4 a 34353 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:39.778Z"
+    },
+    "ulus cafe|kuruçeşme adnan saygun cad kuruçeşme ulus parkı 71 b 34345 beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:41.128Z"
+    },
+    "whıte mıll|sinanpaşa mah süleyman seba cad 16 akaretler beşiktaş istanbul|beşiktaş": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:42.455Z"
+    },
+    "baben beykoz|çiftlik mahallesi diyar çıkmazı çiftlik fatih sultan mehmet cd no 1 34830 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:43.954Z"
+    },
+    "bamboo cafe|cumhuriyet köyü ressam mehmet cad 53 a beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:45.387Z"
+    },
+    "beykoz gül balık restaurant cafe|gümüşsuyu kelle ibrahim cd no 21 34820 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:46.882Z"
+    },
+    "çam vadisi cafe|anadolu kavağı fener yolu no 12 34825 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:48.482Z"
+    },
+    "göksu cafe|toplarönü sokak riyaziyeci anadolu hisarı yalçın çk no 5 34815 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:49.760Z"
+    },
+    "gümüşsuyu kafe|gümüşsuyu kelle ibrahim cd no 34 34820 34820 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:51.244Z"
+    },
+    "güzelcehisar cafe|kavacık mutezem çıkmazı no 1 34810 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:52.529Z"
+    },
+    "kanlıca teras|kanlıca halide edip adıvar cd no 6 34810 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:53.996Z"
+    },
+    "kaymakdonduran mesire alanı|merkez mh 34820 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:55.395Z"
+    },
+    "kemankeş restoran|alibahadır riva cd no 1 8 34829 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:56.782Z"
+    },
+    "lotus coffee|anadolu hisarı kızılserçe sok 10 a 34810 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:58.399Z"
+    },
+    "old fort restaurant and pub|anadolu hisarı kızılserçe sok no 2 34810 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:31:59.874Z"
+    },
+    "otağtepe cafe restaurant nargile|kavacık otağtepe cd no 117 34810 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:01.330Z"
+    },
+    "pembe yalı restaurant cafe|anadolu hisarı toplarönü sk no 4 1 34810 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:02.605Z"
+    },
+    "qubba concept|çubuklu mah orhan veli kanık cad beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:04.001Z"
+    },
+    "sehil kahve zamanı gurme şarküteri|kavacık mah fatih sultan mehmet cad 8 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:05.461Z"
+    },
+    "shine ist restaurant cafe|gümüşsuyu kirazlı yayla cd 34820 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:06.990Z"
+    },
+    "stiela cafe|göksu dz besimpaşa mahallesi kurabiye sokak no 14 1 34820 istanbul göksu 34820 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:09.104Z"
+    },
+    "telgrafhane 1855|anadolu hisarı toplarönü sk no 1 34810 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:10.416Z"
+    },
+    "yoros cafe restaurant anadolu kavagi|anadolu kavağı fener yolu 3 a 34825 beykoz istanbul|beykoz": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:11.911Z"
+    },
+    "aqua blue cafe|pınartepe kirazlı sk no 18 34500 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:13.304Z"
+    },
+    "arya istanbul|adnan kahveci avrupa cd no 106 34528 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:14.699Z"
+    },
+    "babil big boss cafe restaurant|cumhuriyet cumhuriyet cd no 4 34520 34520 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:16.211Z"
+    },
+    "beer more|anadolu caddesi park teras avm no 30 büyükşehir 34520 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:17.686Z"
+    },
+    "book and tea house|barış mahallesi reşat nuri güntekin sokak no 59 beylikdüzü istanbul 41 0036 0n 28 3902 6e barış 34353 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:19.162Z"
+    },
+    "coffee caramel beylikdüzü|adnan kahveci mahallesi osmanlı caddesi 1 63 beyaz palas sitesi adnan kahveci 34528 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:20.573Z"
+    },
+    "gönül bahçesi cafe restaurant|gürpınar dalyan cd 34528 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:22.046Z"
+    },
+    "kahve diyarı adakent şubesi|barış mah fidangör cad 22 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:23.425Z"
+    },
+    "kahve teknesi cafe restaurant beylikdüzü|barış mahallesi peyamisafa sokak çarşı 9 1 dükkan no 57 barış 34520 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:24.729Z"
+    },
+    "lelas cafe restaurant|barış mah enver adakan cad westside 1 barış sitesi no 12 34520 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:26.758Z"
+    },
+    "local cafe|adnan kahveci mah sayaca cad şeyma sok yaşam vadisi parkı beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:28.086Z"
+    },
+    "lunchıll|barış sakarya cd migros avm no 1 k3a k3 34520 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:29.390Z"
+    },
+    "mado newısta şubesi|cumhuriyet mah nazım hikmet blv newista residence dk e 15 16 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:30.901Z"
+    },
+    "meşale cafe restaurant|büyükşehir başak sokağı no 4 34520 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:32.339Z"
+    },
+    "mugga mug beylikdüzü|barış mehmetçik cd no 5 3 4 wesside1 d 9 e blok dükkan 34520 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:34.232Z"
+    },
+    "para cafe restaurant|gürpınar dalyan cd 10 1 34528 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:37.100Z"
+    },
+    "paşafırını marina şükran erdinç ve murat genç ortakları|marmara mah ulusum cad 28 yakuplu beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:38.601Z"
+    },
+    "senfoni restoran cafe|adnan kahveci kışla cd no 36 34528 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:39.925Z"
+    },
+    "sevgi yolu cafe restaurant beylikdüzü|sahil yolu mah aktoprak cd no 1 34524 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:41.501Z"
+    },
+    "tula istanbul cafe restaurant|pınartepe sahilyolu cd 1 a 34528 beylikdüzü istanbul|beylikdüzü": {
+      "status": "not_found",
+      "updatedAt": "2026-04-09T08:32:43.038Z"
+    }
+  }
+}

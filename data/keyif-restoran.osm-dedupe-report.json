@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-09T10:16:38.611Z",
+  "totalBefore": 8810,
+  "totalAfter": 8808,
+  "removed": 2,
+  "removedSample": [
+    {
+      "city": "İstanbul",
+      "district": "Zeytinburnu",
+      "name": "Sadakat",
+      "address": "50 Sokak, Zeytinburnu, İstanbul",
+      "cuisine": "Restoran",
+      "placeId": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sadakat%2050%20Sokak%2C%20Zeytinburnu%2C%20%C4%B0stanbul",
+      "phone": "",
+      "website": "",
+      "googleRating": "",
+      "rating": "",
+      "budget": "",
+      "postalCode": "",
+      "neighborhood": "",
+      "latitude": 40.9875939,
+      "longitude": 28.9046488,
+      "source": "openstreetmap",
+      "sourceRef": "5667658496"
+    },
+    {
+      "city": "İstanbul",
+      "district": "Kadıköy",
+      "name": "Köfteci Yusuf",
+      "address": "Çetin Emeç Bulvarı, 30/1, Bostancı Mahallesi, Kadıköy, İstanbul",
+      "cuisine": "Restoran",
+      "placeId": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=K%C3%B6fteci%20Yusuf%20%C3%87etin%20Eme%C3%A7%20Bulvar%C4%B1%2C%2030%2F1%2C%20Bostanc%C4%B1%20Mahallesi%2C%20Kad%C4%B1k%C3%B6y%2C%20%C4%B0stanbul",
+      "phone": "",
+      "website": "",
+      "googleRating": "",
+      "rating": "",
+      "budget": "",
+      "postalCode": "",
+      "neighborhood": "Bostancı Mahallesi",
+      "latitude": 40.952371,
+      "longitude": 29.0920966,
+      "source": "openstreetmap",
+      "sourceRef": "12754393750"
+    }
+  ]
+}

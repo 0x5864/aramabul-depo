@@ -1,0 +1,241 @@
+{
+  "generatedAt": "2026-04-09T12:49:22.722Z",
+  "inputs": {
+    "venues": "/Users/metintuncgenc/Documents/aramabul/data/venues.json",
+    "backup": "/Users/metintuncgenc/Documents/aramabul/data/venues.pre-harita-cleanup-pass3.backup.json",
+    "report": "/Users/metintuncgenc/Documents/aramabul/data/harita-restoran-cleanup-pass3-report.json",
+    "deleteDb": false,
+    "profile": "google-medium"
+  },
+  "counts": {
+    "before": 13507,
+    "after": 13498,
+    "removedCount": 9,
+    "haritaBefore": 5902,
+    "haritaAfter": 5893,
+    "deletedFromDb": 0
+  },
+  "breakdownAfter": [
+    {
+      "source": "harita_istanbul",
+      "count": 5893
+    },
+    {
+      "source": "google_places",
+      "count": 3337
+    },
+    {
+      "source": "keyif_local_restoran",
+      "count": 1777
+    },
+    {
+      "source": "keyif_local_kafe",
+      "count": 1105
+    },
+    {
+      "source": "keyif_local_pub_bar",
+      "count": 550
+    },
+    {
+      "source": "keyif_local_kebap",
+      "count": 205
+    },
+    {
+      "source": "keyif_local_cigkofte",
+      "count": 165
+    },
+    {
+      "source": "keyif_local_doner",
+      "count": 158
+    },
+    {
+      "source": "keyif_local_pide",
+      "count": 150
+    },
+    {
+      "source": "keyif_local_michelin",
+      "count": 88
+    },
+    {
+      "source": "keyif_local_kahvalti",
+      "count": 67
+    },
+    {
+      "source": "keyif_local_lokanta",
+      "count": 3
+    }
+  ],
+  "removedSample": [
+    {
+      "name": "Kalpazankaya Restaurant",
+      "district": "Adalar",
+      "address": "Kalpazankaya Yolu Sk. No:46 BURGAZADA/ADALAR",
+      "sourcePlaceId": "harita:b746f63cdaba7e3cba746902ece9defe",
+      "keptName": "Kalpazankaya Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Kalpazankaya Yolu Sok. No:42 Burgazada, Burgazada, 34975 Adalar/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 4,
+        "jaccard": 0.667,
+        "distanceMeters": 1287,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Öz Hacıbey Kebapçısı",
+      "district": "Tuzla",
+      "address": "Eski Ankara Asfaltı Cad. TEPEÖREN/TUZLA",
+      "sourcePlaceId": "harita:34d8b1a9861db6040a8354aebf47f48f",
+      "keptName": "Öz Hacıbey Kebapçısı",
+      "keptSource": "google_places",
+      "keptAddress": "Tepeören, Eski Ankara Asfaltı Cad. No:162, 34959 Tuzla/İstanbul",
+      "score": 85,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 6,
+        "jaccard": 0.667,
+        "distanceMeters": 12640,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Cemil Hoca",
+      "district": "Beylikdüzü",
+      "address": "Cengiz Topel Cad. No:18 GÜRPINAR/BEYLİKDÜZÜ",
+      "sourcePlaceId": "harita:624c93ee8fe15f587614f26f735b7921",
+      "keptName": "Cemil Hoca Restoran",
+      "keptSource": "google_places",
+      "keptAddress": "Gürpınar, Cengiz Topel Cd. No:20, 34528 Beylikdüzü/İstanbul",
+      "score": 69,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 4,
+        "jaccard": 0.571,
+        "distanceMeters": 3098,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Erenler Sofrası",
+      "district": "Kadıköy",
+      "address": "Prof. Ali Nihat Tarlan Cad. No:13 A BOSTANCI/KADIKÖY",
+      "sourcePlaceId": "harita:ad35d89bc690f6fe54a945b6eb3f775b",
+      "keptName": "Erenler Sofrası",
+      "keptSource": "google_places",
+      "keptAddress": "Bostancı, Prof. Dr. Ali Nihat Tarlan Cd No:10, 34744 Kadıköy/İstanbul",
+      "score": 85,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 6,
+        "jaccard": 0.667,
+        "distanceMeters": 1033,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Seyhan Kebap",
+      "district": "Kartal",
+      "address": "Atatürk Cad. No:6 B SOĞANLIK YENİ/KARTAL",
+      "sourcePlaceId": "harita:c341a9574ac73128a15e4cf163c78cd8",
+      "keptName": "Seyhan Kebap",
+      "keptSource": "google_places",
+      "keptAddress": "Soğanlık Yeni, Atatürk Cd. 18/B, 34880 Kartal/İstanbul",
+      "score": 69,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 4,
+        "jaccard": 0.571,
+        "distanceMeters": 273,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Riva'S Club Restaurant",
+      "district": "Çekmeköy",
+      "address": "Taşlı Armut Sk. No:9 /5 SIRAPINAR/ÇEKMEKÖY",
+      "sourcePlaceId": "harita:f3c6b4880c4c85574945f68d152d739c",
+      "keptName": "Riva's Club",
+      "keptSource": "google_places",
+      "keptAddress": "Sırapınar, Taşlı Armut Sokak No:7, 34799 Çekmeköy/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 4,
+        "jaccard": 0.667,
+        "distanceMeters": 13739,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Digma",
+      "district": "Beykoz",
+      "address": "Bozhane Yolu No:7 -1 İSHAKLI/BEYKOZ",
+      "sourcePlaceId": "harita:917b102f471c91afbfacb491af92ed18",
+      "keptName": "Digma Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "İshaklı, Bozhane Yolu No:9, 34829 Beykoz/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 4,
+        "jaccard": 0.667,
+        "distanceMeters": 15659,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Beyaz Bahçe",
+      "district": "Beykoz",
+      "address": "Esenler Çıkmazı CUMHURİYET/BEYKOZ",
+      "sourcePlaceId": "harita:59ea80fddee53e266ed67d82cd7b26d4",
+      "keptName": "Beyaz Bahçe Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Cumhuriyet, Esenler Çıkmazı No 2A, 34800 Beykoz/İstanbul",
+      "score": 79,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 4,
+        "jaccard": 0.667,
+        "distanceMeters": 14717,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Poyraz Çapari Restaurant",
+      "district": "Beykoz",
+      "address": "Mendirek Yolu No:16 A POYRAZKÖY/BEYKOZ",
+      "sourcePlaceId": "harita:c5bc64a373479b187c23986bba09e9fd",
+      "keptName": "Poyraz Çapari Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Poyrazköy Mendirek Yolu, Poyrazköy, Kennedy Cd. No: 12/1, 34829 Beykoz/İstanbul",
+      "score": 69,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 4,
+        "jaccard": 0.571,
+        "distanceMeters": 8616,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    }
+  ]
+}

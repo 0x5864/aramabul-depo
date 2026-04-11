@@ -1,0 +1,666 @@
+{
+  "generatedAt": "2026-04-09T12:18:35.074Z",
+  "inputs": {
+    "harita": "/Users/metintuncgenc/Documents/aramabul/data/harita-restoran-grid-sample.json",
+    "keyif": "/Users/metintuncgenc/Documents/aramabul/data/keyif-restoran.json"
+  },
+  "counts": {
+    "harita": 4187,
+    "keyif": 8808,
+    "matchedByNameAndDistrict": 139,
+    "matchedByNameOnly": 559,
+    "haritaOnly": 3489
+  },
+  "addressSummary": {
+    "harita": {
+      "total": 4187,
+      "withAddress": 3860,
+      "withoutAddress": 327,
+      "fillRate": 0.9219
+    },
+    "keyif": {
+      "total": 8808,
+      "withAddress": 6643,
+      "withoutAddress": 2165,
+      "fillRate": 0.7542
+    }
+  },
+  "samples": {
+    "matchedByNameAndDistrict": [
+      {
+        "name": "Kalpazankaya Restaurant",
+        "address": "Kalpazankaya Yolu Sk. No:46 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "b746f63cdaba7e3cba746902ece9defe",
+        "categoryId": 279
+      },
+      {
+        "name": "Yeni İdeal Restoran",
+        "address": "Turgut Egemen Bahçesi Sk. No:15 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "e05e51abff371df9aabd63a1a788a0f6",
+        "categoryId": 279
+      },
+      {
+        "name": "Cennet Bahçesi",
+        "address": "Gönüllü Cad. No:50 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "cf7d514e44e3aec5b6e8a1ae183f1e38",
+        "categoryId": 521
+      },
+      {
+        "name": "Restaurant Mehmet Usta",
+        "address": "Yeniyalı Sk. No:13 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "810cd4a020d9d22e731ed87393aa9cdb",
+        "categoryId": 279
+      },
+      {
+        "name": "Lunapark Restaurant",
+        "address": "",
+        "district": "",
+        "hashcode": "bfc2fa1132ddc06a07a4caf0b0fa7861",
+        "categoryId": 279
+      },
+      {
+        "name": "Chocowhite",
+        "address": "23 Nisan Cad. No:33 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "dd67fb7ec11fb337a9038fcb75673cf0",
+        "categoryId": 381
+      },
+      {
+        "name": "Ada Mutfak",
+        "address": "Halikarnas Sk. No:12 A NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "b6675e9cc1fc211f02272950099a6bb5",
+        "categoryId": 279
+      },
+      {
+        "name": "Gıatres Brasserıe",
+        "address": "Şehit Recep Koç Cad. No:3 A NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "10ab05aa9eab4390848f8b701777c96b",
+        "categoryId": 279
+      },
+      {
+        "name": "Köşem Restaurant",
+        "address": "Şehit Recep Koç Cad. No:45 C MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "7b19a48f144f90d5e7224b91175b5981",
+        "categoryId": 279
+      },
+      {
+        "name": "Lido Restaurant",
+        "address": "Fenerbahçeli Lefter Sk. No:1 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "53f6b287c4d3688ae1e45b5b84e31e19",
+        "categoryId": 279
+      },
+      {
+        "name": "Park Restaurant",
+        "address": "Rıhtım Cad. No:15 HEYBELİADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "2c25b856212a2dec7fb8ffdf1c34d95c",
+        "categoryId": 279
+      },
+      {
+        "name": "Ada Restaurant",
+        "address": "Rıhtım Cad. No:41 A HEYBELİADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "0b8bf13e7ed9c4062e65fe8fdff504ad",
+        "categoryId": 279
+      },
+      {
+        "name": "Perili Kosk Restaurant",
+        "address": "Yalı Rıhtım Cad. HEYBELİADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "c51309a60b668a4cd9aa3d1d05047974",
+        "categoryId": 279
+      },
+      {
+        "name": "Park Restaurant",
+        "address": "Yalı Rıhtım Cad. HEYBELİADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "688600c3a6aad2d2d963b213ece6d1eb",
+        "categoryId": 279
+      },
+      {
+        "name": "Kalpazankaya Restaurant",
+        "address": "Gönüllü Cad. No:26 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "d805d8163529a2b3b0489496b490caf4",
+        "categoryId": 279
+      },
+      {
+        "name": "Vesta Restaurant",
+        "address": "Turgut Özal Bulvarı No:57 KORDONBOYU/KARTAL",
+        "district": "Kartal",
+        "hashcode": "4da83255a05bc67d43d7ffb43158a891",
+        "categoryId": 279
+      },
+      {
+        "name": "Büyük Erzurum Sofrası",
+        "address": "İpekböceği Sk. No:11 A KORDONBOYU/KARTAL",
+        "district": "Kartal",
+        "hashcode": "e57eaba6b24b559c3c3874b54439bea5",
+        "categoryId": 283
+      },
+      {
+        "name": "Angel Mercan",
+        "address": "Cafer Bey Sk. No:28 POSTANE/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "289cdc73a94e9404c001518fc4725036",
+        "categoryId": 521
+      },
+      {
+        "name": "Esentepe Köftecisi",
+        "address": "Manastır Yolu Cad. No:88 POSTANE/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "7293283fc2431d4ae3d6d01e6dd5aa81",
+        "categoryId": 286
+      },
+      {
+        "name": "Modern Lokanta",
+        "address": "Sahil Bulvarı No:126 AYDINTEPE/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "24fc330d1709cd876918b990bc1bf272",
+        "categoryId": 283
+      },
+      {
+        "name": "Meraklı Köfteci",
+        "address": "Cumhuriyet Cad. No:71 CAMİ/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "7dfa751c731cd527326881403c91f298",
+        "categoryId": 286
+      },
+      {
+        "name": "Konak Mangalbaşı",
+        "address": "Nurbaba Sk. No:4 ORTA/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "a9d231d06daa2692bf506775cdbaae0d",
+        "categoryId": 292
+      },
+      {
+        "name": "Yeşil Ayder Restaurant",
+        "address": "Fettah Başaran Cad. No:8 ORHANLI/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "f71f6caa81ef3950b896c6a2ede75234",
+        "categoryId": 292
+      },
+      {
+        "name": "Uzunlar Kebap",
+        "address": "Cem Sultan Cad. No:40 A AYDINLI/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "85b1c44ec21ea462799c570fdcc29c5a",
+        "categoryId": 285
+      },
+      {
+        "name": "Köfteci Yusuf",
+        "address": "",
+        "district": "",
+        "hashcode": "2e3b82099f177b9a5928a05764d74c7a",
+        "categoryId": 279
+      },
+      {
+        "name": "Green Salads",
+        "address": "Yeşilköy Halkalı Cad. No:93 /3 ŞENLİKKÖY/BAKIRKÖY",
+        "district": "Bakırköy",
+        "hashcode": "5a1b3df6b84f3850a5f21a547a8a5176",
+        "categoryId": 284
+      },
+      {
+        "name": "Burger King",
+        "address": "Yeşilköy Halkalı Cad. No:93 /3 ŞENLİKKÖY/BAKIRKÖY",
+        "district": "Bakırköy",
+        "hashcode": "b4cf122f2de645ea16f3e1d53be93b93",
+        "categoryId": 284
+      },
+      {
+        "name": "Pizza Take Away",
+        "address": "Çekmece Cad. No:38 A YEŞİLKÖY/BAKIRKÖY",
+        "district": "Bakırköy",
+        "hashcode": "cdf4396517764b251331b9441ae8da78",
+        "categoryId": 293
+      },
+      {
+        "name": "Burger King",
+        "address": "Harman Sk. No:48 ŞENLİKKÖY/BAKIRKÖY",
+        "district": "Bakırköy",
+        "hashcode": "4e302ab8c31109cc4dc7ec37af9e067e",
+        "categoryId": 284
+      },
+      {
+        "name": "Ziya Şark Sofrası",
+        "address": "İstasyon Cad. No:22 B YEŞİLKÖY/BAKIRKÖY",
+        "district": "Bakırköy",
+        "hashcode": "c60a07cae51301018e32ecbb99535d95",
+        "categoryId": 286
+      }
+    ],
+    "matchedByNameOnly": [
+      {
+        "name": "Panorama Restaurant",
+        "address": "23 Nisan Cad. No:24 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "c03514ea16a6e6b57b8a8e4022b48f40",
+        "categoryId": 279
+      },
+      {
+        "name": "Bursa İskender",
+        "address": "Düz Sk. No:3 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "a4c4adaa262519f4bb24607acfaed3a5",
+        "categoryId": 292
+      },
+      {
+        "name": "Aslan Bey",
+        "address": "23 Nisan Cad. No:12 A NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "9b3355bb2cd088c3ff145ca53c3bb2f7",
+        "categoryId": 286
+      },
+      {
+        "name": "Sultanahmet Köftecisi",
+        "address": "23 Nisan Cad. No:8 B NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "64ecc2b5197d00cf78ddfd2fa6c860d2",
+        "categoryId": 286
+      },
+      {
+        "name": "Bereket Döner",
+        "address": "23 Nisan Cad. No:4 A NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "d75dddc6ad98b73bc257b0730bfe5239",
+        "categoryId": 291
+      },
+      {
+        "name": "Kiyi Restaurant",
+        "address": "Çiçekliyalı Sk. No:18 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "6ff8be273514f65b0e178d3640a11df1",
+        "categoryId": 279
+      },
+      {
+        "name": "Sultan Kebap",
+        "address": "Özdemir Sk. No:4 /2 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "347519ce7c95f25090a19332803cdab8",
+        "categoryId": 285
+      },
+      {
+        "name": "Meşhur Sarıyer Börekçisi",
+        "address": "Şehit Recep Koç Cad. No:34 A MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "2dd5ece824192ee6f088a6d6210fd5a7",
+        "categoryId": 76
+      },
+      {
+        "name": "Levent Börek",
+        "address": "Altınordu Sk. No:2 B MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "38ae4d5331cd4667755e75838922294e",
+        "categoryId": 76
+      },
+      {
+        "name": "Saray Restaurant",
+        "address": "Şehit Recep Koç Cad. No:23 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "0b26950c40d25bd8f8e481804c4cc013",
+        "categoryId": 279
+      },
+      {
+        "name": "Kervan Restaurant",
+        "address": "Şehit Recep Koç Cad. No:19 C MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "21335fbe444447627d7e5b739ab52c66",
+        "categoryId": 279
+      },
+      {
+        "name": "Kalamar Restaurant",
+        "address": "Gülistan Cad. No:95 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "a9bff470c124822016d79f2889579b0f",
+        "categoryId": 279
+      },
+      {
+        "name": "Mavi Restaurant",
+        "address": "Ayyıldız Cad. No:30 A HEYBELİADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "6abb6ea3b8e92876a80db09bbb0d7b20",
+        "categoryId": 279
+      },
+      {
+        "name": "Yıldız Pide Salonu",
+        "address": "İşgüzar Sk. No:18 B HEYBELİADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "13e08042febacd8246758eb36dc67335",
+        "categoryId": 287
+      },
+      {
+        "name": "Barba Yani",
+        "address": "Gezinti Cad. No:3 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "f390dc1e3d9ea8be23b6366debd82ce9",
+        "categoryId": 521
+      },
+      {
+        "name": "Hacıoğlu Lahmacun",
+        "address": "Sandalcı Sk. No:7 KORDONBOYU/KARTAL",
+        "district": "Kartal",
+        "hashcode": "fc2f4ad6d7f7613e59c91bb973ccf16f",
+        "categoryId": 287
+      },
+      {
+        "name": "Erzurum Çağ Kebap",
+        "address": "Çanakkale Cad. No:3 A KORDONBOYU/KARTAL",
+        "district": "Kartal",
+        "hashcode": "deddfb9820cd1da2e4b6c3896d1a54a3",
+        "categoryId": 285
+      },
+      {
+        "name": "Kumluk Restaurant",
+        "address": "Meltem Sk. No:5 KORDONBOYU/KARTAL",
+        "district": "Kartal",
+        "hashcode": "1501ae8a0ea153d859bedff158681dbe",
+        "categoryId": 286
+      },
+      {
+        "name": "Çamlık Restaurant",
+        "address": "Meltem Sk. No:5 A KORDONBOYU/KARTAL",
+        "district": "Kartal",
+        "hashcode": "1f1c5b9607ccdf97518664f1cad1a916",
+        "categoryId": 279
+      },
+      {
+        "name": "Dürümcü",
+        "address": "Turgut Özal Bulvarı No:63 KORDONBOYU/KARTAL",
+        "district": "Kartal",
+        "hashcode": "ae776afe048dd0357d7bb12912478d58",
+        "categoryId": 281
+      },
+      {
+        "name": "Tavuk Dünyası",
+        "address": "Turgut Özal Bulvarı No:63 KORDONBOYU/KARTAL",
+        "district": "Kartal",
+        "hashcode": "96f4c2ee76fa6600362ca1f31fe27ae1",
+        "categoryId": 292
+      },
+      {
+        "name": "Arsamiea Çiğköfte",
+        "address": "Kumlar Cad. No:14 B KORDONBOYU/KARTAL",
+        "district": "Kartal",
+        "hashcode": "fbf48be3cee7b15e8a9256729b1d01a4",
+        "categoryId": 93
+      },
+      {
+        "name": "Göçmen Börekçisi",
+        "address": "Rauf Orbay Cad. No:51 EVLİYA ÇELEBİ/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "1f7f34dc069b5f4321959932c3e3bce0",
+        "categoryId": 76
+      },
+      {
+        "name": "Ercan Burger",
+        "address": "Tahaffuzhane Cad. No:68 POSTANE/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "5bee28d2c17a03374b84f230602c1a50",
+        "categoryId": 284
+      },
+      {
+        "name": "Çiğ Köfteci Ömer Usta",
+        "address": "Hatboyu Cad. No:2 /1A EVLİYA ÇELEBİ/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "402b9180e8300ac0c1bf9acbc3dbd6df",
+        "categoryId": 93
+      },
+      {
+        "name": "Sarıyer Börekçisi",
+        "address": "Hatboyu Cad. No:2 /1C EVLİYA ÇELEBİ/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "a231c3dc9d63dc9eed3a69335431138e",
+        "categoryId": 76
+      },
+      {
+        "name": "Tarihi Sarıyer Börekçisi",
+        "address": "Hatboyu Cad. No:10 C EVLİYA ÇELEBİ/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "bfcd97518a75454bd08bc4ceb556977d",
+        "categoryId": 76
+      },
+      {
+        "name": "Bülent Börek",
+        "address": "Hatboyu Cad. No:10 G EVLİYA ÇELEBİ/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "657f0cfa8dc4a9e1306181ed105313c0",
+        "categoryId": 76
+      },
+      {
+        "name": "Göçmen Börekçisi",
+        "address": "Hatboyu Cad. No:14 B EVLİYA ÇELEBİ/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "8073dd59981605a67cde99b7bb13aa12",
+        "categoryId": 76
+      },
+      {
+        "name": "Cajun Corner",
+        "address": "Hatboyu Cad. No:14 C EVLİYA ÇELEBİ/TUZLA",
+        "district": "Tuzla",
+        "hashcode": "013298ff560d4c7fe66ffa1c043c2a46",
+        "categoryId": 284
+      }
+    ],
+    "haritaOnly": [
+      {
+        "name": "Kalpazankaya Restoran",
+        "address": "Kalpazankaya Yolu Sk. No:42 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "179a09357a57bde4a0a04ccd6842fd71",
+        "categoryId": 279
+      },
+      {
+        "name": "Anadolu Kebap ve Ev Yemekleri",
+        "address": "Gezinti Cad. No:75 /1 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "4d02df613c1e11bd97c029040f6a53c3",
+        "categoryId": 285
+      },
+      {
+        "name": "Ufuğun Yeri",
+        "address": "Heybetli Sk. No:22 KINALIADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "d84a7ac529713b9934039a3ce712e78c",
+        "categoryId": 521
+      },
+      {
+        "name": "Sercan'ın Yeri & Et Mangal",
+        "address": "Heybetli Sk. No:22 KINALIADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "d7624f1819bb43bea0d9642a7a64abbf",
+        "categoryId": 292
+      },
+      {
+        "name": "College Court",
+        "address": "Mehtap Sk. No:1 /1 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "ae51b4871f59f6568cbd5f0dda52d345",
+        "categoryId": 521
+      },
+      {
+        "name": "%100 Lezzetly",
+        "address": "Murat Sk. No:1 BURGAZADA/ADALAR",
+        "district": "Adalar",
+        "hashcode": "c3d704560ea5389e767cf8504fe81b30",
+        "categoryId": 521
+      },
+      {
+        "name": "Ünka Meyhane",
+        "address": "Büyük Tur Yolu No:40 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "576e5331785de4d1d90c865d6eb92f63",
+        "categoryId": 319
+      },
+      {
+        "name": "Eskibağ Plaj Restaurant",
+        "address": "Büyük Tur Yolu No:36 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "a04986541bd7be6c53592894b29b5b8d",
+        "categoryId": 279
+      },
+      {
+        "name": "Ayanıkola Restaurant",
+        "address": "Yılmaz Türk Cad. No:181 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "0469c928223c823d3bc5f4861c6d256c",
+        "categoryId": 279
+      },
+      {
+        "name": "Bada Plaj Işletmeciliği Otelcilik",
+        "address": "",
+        "district": "",
+        "hashcode": "a9f42df9a31a101984f88d373f7fe791",
+        "categoryId": 279
+      },
+      {
+        "name": "Adalar Belediyesi Ulaşım Tur. Spor Kültür Eğitim Kantini",
+        "address": "Yılmaz Türk Cad. No:179 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "bc49af6b36802e5c8412d5ea037ad508",
+        "categoryId": 521
+      },
+      {
+        "name": "Büyükada Loc'Ada",
+        "address": "Yılmaz Türk Cad. No:175 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "bc9b63b29d8dada3669355e7ec76b0da",
+        "categoryId": 279
+      },
+      {
+        "name": "Club Mavi Restaurant",
+        "address": "Yörükali Sk. No:8 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "61a2edb0cc05edd3dce7d780dff495f3",
+        "categoryId": 279
+      },
+      {
+        "name": "Yörükali Garden",
+        "address": "Fetih Sk. No:3 A NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "7b0871687473bf42fe162312ebec7764",
+        "categoryId": 279
+      },
+      {
+        "name": "Dilburnu Restaurant",
+        "address": "Güven Sk. No:3 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "9df6f1e1fa0c7a69f954140dc996636e",
+        "categoryId": 279
+      },
+      {
+        "name": "Sedef Meyhane",
+        "address": "Şehsuvar Menemenlioğlu Sk. MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "cc3f5d8281af6eb017e89963c8577b8a",
+        "categoryId": 319
+      },
+      {
+        "name": "Elio Restoran",
+        "address": "Şehsuvar Menemenlioğlu Sk. No:2 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "860ce073680e561dfa0ff60027b8ea14",
+        "categoryId": 279
+      },
+      {
+        "name": "Bfa Meyhane",
+        "address": "Şehsuvar Menemenlioğlu Sk. No:2 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "920378e751864ed6af1da5f1b55ca315",
+        "categoryId": 319
+      },
+      {
+        "name": "Club Ada Sedef",
+        "address": "Gonca Sk. No:1 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "69f16ab16daece3d9af84d2d6292122f",
+        "categoryId": 521
+      },
+      {
+        "name": "Zevkli Yaşam",
+        "address": "Yılmaz Türk Cad. No:104 A MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "eb53008d7aa04134637e3bd806c4f5ca",
+        "categoryId": 521
+      },
+      {
+        "name": "Çetinkaya Restaurant",
+        "address": "Seher Sk. No:5 A NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "57a863cb403c391642260f7813929ce6",
+        "categoryId": 279
+      },
+      {
+        "name": "Magic Corn",
+        "address": "Düzenli Sk. No:20 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "c9aebc5368b7a97b59313810416de851",
+        "categoryId": 521
+      },
+      {
+        "name": "Elazığ Pide ve Lavaş Salonu",
+        "address": "Sakarya Sk. No:30 D NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "20f25d2772a5605d26f611638cd0657d",
+        "categoryId": 287
+      },
+      {
+        "name": "Meziki Restaurant",
+        "address": "Malül Gazi Cad. No:24 MADEN/ADALAR",
+        "district": "Adalar",
+        "hashcode": "cb482015f24542c27eb0069fc34a077b",
+        "categoryId": 279
+      },
+      {
+        "name": "Hacı Baba Pide Fırını",
+        "address": "23 Nisan Cad. No:32 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "833f9a6a811d19e54b2f1d19f1f53850",
+        "categoryId": 287
+      },
+      {
+        "name": "Ferhat Restaurant",
+        "address": "23 Nisan Cad. No:33 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "0f618a220ff9c90417b272f2b479a1ea",
+        "categoryId": 279
+      },
+      {
+        "name": "The Prince Restaurant",
+        "address": "23 Nisan Cad. No:26 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "7de9285199816680f37ff3b9e98cd17f",
+        "categoryId": 279
+      },
+      {
+        "name": "Splendid Palace Restaurant",
+        "address": "23 Nisan Cad. No:28 A NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "4f391b364eccd353793bf95fa606dd56",
+        "categoryId": 279
+      },
+      {
+        "name": "Palya Restaurant",
+        "address": "23 Nisan Cad. No:22 NİZAM/ADALAR",
+        "district": "Adalar",
+        "hashcode": "caa63d8d4542e1e50fac886dcb297b74",
+        "categoryId": 279
+      },
+      {
+        "name": "Marmara Firin Gıda",
+        "address": "",
+        "district": "",
+        "hashcode": "0bf79220bfb1e2501699be95531a8a62",
+        "categoryId": 381
+      }
+    ]
+  }
+}

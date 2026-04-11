@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-04-09T12:47:25.233Z",
+  "inputs": {
+    "venues": "/Users/metintuncgenc/Documents/aramabul/data/venues.json",
+    "backup": "/Users/metintuncgenc/Documents/aramabul/data/venues.pre-harita-cleanup-pass2.backup.json",
+    "report": "/Users/metintuncgenc/Documents/aramabul/data/harita-restoran-cleanup-pass2-report.json",
+    "deleteDb": false,
+    "profile": "near-google"
+  },
+  "counts": {
+    "before": 13509,
+    "after": 13507,
+    "removedCount": 2,
+    "haritaBefore": 5904,
+    "haritaAfter": 5902,
+    "deletedFromDb": 0
+  },
+  "breakdownAfter": [
+    {
+      "source": "harita_istanbul",
+      "count": 5902
+    },
+    {
+      "source": "google_places",
+      "count": 3337
+    },
+    {
+      "source": "keyif_local_restoran",
+      "count": 1777
+    },
+    {
+      "source": "keyif_local_kafe",
+      "count": 1105
+    },
+    {
+      "source": "keyif_local_pub_bar",
+      "count": 550
+    },
+    {
+      "source": "keyif_local_kebap",
+      "count": 205
+    },
+    {
+      "source": "keyif_local_cigkofte",
+      "count": 165
+    },
+    {
+      "source": "keyif_local_doner",
+      "count": 158
+    },
+    {
+      "source": "keyif_local_pide",
+      "count": 150
+    },
+    {
+      "source": "keyif_local_michelin",
+      "count": 88
+    },
+    {
+      "source": "keyif_local_kahvalti",
+      "count": 67
+    },
+    {
+      "source": "keyif_local_lokanta",
+      "count": 3
+    }
+  ],
+  "removedSample": [
+    {
+      "name": "Barba Yani Restoran",
+      "district": "Adalar",
+      "address": "Çarşı Cad. No:21 BURGAZADA/ADALAR",
+      "sourcePlaceId": "harita:ed7c048b84c750477fcd5dd76ae702e5",
+      "keptName": "Barba Yani Restaurant",
+      "keptSource": "google_places",
+      "keptAddress": "Burgazada, Yalı Cd. 8/A, 34975 Burgazada / Adalar/Adalar/İstanbul",
+      "score": 35,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 2,
+        "jaccard": 0.286,
+        "distanceMeters": 83,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    },
+    {
+      "name": "Gıatres Brasserıe",
+      "district": "Adalar",
+      "address": "Şehit Recep Koç Cad. No:3 A NİZAM/ADALAR",
+      "sourcePlaceId": "harita:10ab05aa9eab4390848f8b701777c96b",
+      "keptName": "Gıatres Brasserıe",
+      "keptSource": "google_places",
+      "keptAddress": "Nizam, Şht. Recep Koç Cd. 2 D, 34970 Adalar/İstanbul",
+      "score": 56,
+      "reason": {
+        "contained": false,
+        "sameAnyNumber": false,
+        "sharedTokenCount": 4,
+        "jaccard": 0.444,
+        "distanceMeters": 63,
+        "safeAddressMatch": false,
+        "closeDistance": false
+      }
+    }
+  ]
+}

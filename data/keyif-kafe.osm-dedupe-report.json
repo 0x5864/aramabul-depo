@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-09T10:16:38.493Z",
+  "totalBefore": 4832,
+  "totalAfter": 4830,
+  "removed": 2,
+  "removedSample": [
+    {
+      "city": "İstanbul",
+      "district": "Zeytinburnu",
+      "name": "Cay",
+      "address": "50/1 Sokak, Zeytinburnu, İstanbul",
+      "cuisine": "Kafe",
+      "placeId": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cay%2050%2F1%20Sokak%2C%20Zeytinburnu%2C%20%C4%B0stanbul",
+      "phone": "",
+      "website": "",
+      "googleRating": "",
+      "rating": "",
+      "budget": "",
+      "postalCode": "",
+      "neighborhood": "",
+      "latitude": 40.9882229,
+      "longitude": 28.9044171,
+      "source": "openstreetmap",
+      "sourceRef": "5667660280"
+    },
+    {
+      "city": "İstanbul",
+      "district": "",
+      "name": "Un Karaköy",
+      "address": "",
+      "cuisine": "Kafe",
+      "placeId": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Un%20Karak%C3%B6y",
+      "phone": "",
+      "website": "",
+      "googleRating": "",
+      "rating": "",
+      "budget": "",
+      "postalCode": "",
+      "neighborhood": "",
+      "latitude": 41.024658,
+      "longitude": 28.9780954,
+      "source": "openstreetmap",
+      "sourceRef": "6116437686"
+    }
+  ]
+}
